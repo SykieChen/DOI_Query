@@ -100,8 +100,8 @@ if __name__ == '__main__':
 
                     cur_line = f_file.readline().strip('\r\n')
                 if r_doi != "":
-                    ct_all = ct_all + 1
-                    ct_file = ct_file + 1
+                    ct_all += 1
+                    ct_file += 1
                     # query citis
                     # try the doi
                     html_url = "http://api.altmetric.com/v1/doi/" + r_doi
@@ -157,7 +157,7 @@ if __name__ == '__main__':
 
                     else:
                         r_posts = r_delicious = r_fbwalls = r_feeds = r_forum = r_gplus = r_linkedin = "n/a"
-                        r_msm = r_peer_review_sites = r_pinners = r_pilicies = r_qs = r_rdts = "n/a"
+                        r_msm = r_peer_review_sites = r_pinners = r_policies = r_qs = r_rdts = "n/a"
                         r_rh = r_tweeters = r_videos = r_weibo = r_wikipedia = "n/a"
 
                     # write
