@@ -86,6 +86,7 @@
 			this.textBox27 = new System.Windows.Forms.TextBox();
 			this.button5 = new System.Windows.Forms.Button();
 			this.textBox28 = new System.Windows.Forms.TextBox();
+			this.label29 = new System.Windows.Forms.Label();
 			this.SuspendLayout();
 			// 
 			// button1
@@ -765,11 +766,23 @@
 			this.textBox28.TabIndex = 63;
 			this.textBox28.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox28_KeyDown);
 			// 
+			// label29
+			// 
+			this.label29.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+			this.label29.AutoSize = true;
+			this.label29.Location = new System.Drawing.Point(182, 22);
+			this.label29.Name = "label29";
+			this.label29.Size = new System.Drawing.Size(13, 13);
+			this.label29.TabIndex = 64;
+			this.label29.Text = "0";
+			this.label29.TextAlign = System.Drawing.ContentAlignment.TopRight;
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(978, 641);
+			this.Controls.Add(this.label29);
 			this.Controls.Add(this.textBox28);
 			this.Controls.Add(this.button5);
 			this.Controls.Add(this.textBox27);
@@ -908,6 +921,7 @@
 		private System.Windows.Forms.TextBox textBox27;
 		private System.Windows.Forms.Button button5;
 		private System.Windows.Forms.TextBox textBox28;
+		private System.Windows.Forms.Label label29;
 	}
 }
 

@@ -17,18 +17,23 @@ namespace DOI_Query {
 		private void button2_Click(object sender, EventArgs e) {
 			System.Diagnostics.Process p = new System.Diagnostics.Process();
 			p.StartInfo.FileName = "cmd.exe";
+			p.StartInfo.Arguments = "/C python query.py " + textBox1.Text;
+			//p.StartInfo.FileName = "python query.py " + textBox1.Text;
 			p.StartInfo.UseShellExecute = false;
 			p.StartInfo.RedirectStandardInput = true;
 			//p.StartInfo.RedirectStandardOutput = true;
 			p.Start();
-			p.StandardInput.WriteLine("python query.py " + textBox1.Text);
-			p.StandardInput.WriteLine("exit");
+			p.WaitForExit();
+			//p.StandardInput.WriteLine("python query.py " + textBox1.Text);
+			//p.StandardInput.WriteLine("exit");
+			
 			p.Close();
 			lines = System.IO.File.ReadAllLines(@"result.txt");
 			listBox1.Items.Clear();
 			for (int i = 0; i < lines.Length; i += 26) {
 				listBox1.Items.Add(lines[i]);
 			}
+			label29.Text = listBox1.Items.Count.ToString();
 		}
 
 		private void Form1_Load(object sender, EventArgs e) {
@@ -37,6 +42,7 @@ namespace DOI_Query {
 			for (int i = 0; i < lines.Length; i += 26) {
 				listBox1.Items.Add(lines[i]);
 			}
+			label29.Text = listBox1.Items.Count.ToString();
 			linkLabel1.Links[0].LinkData = "http://www.devchen.com/";
 		}
 
