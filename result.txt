@@ -1,0 +1,2002 @@
+10.1177/0278364914532149
+Bitblox: Printable digital materials for electromechanical machines
+MacCurdy, Robert; McNicoll, Anthony; Lipson, Hod
+MacCurdy, R (reprint author), Cornell Univ, Creat Machines Lab, 239 Upson Hall, Ithaca, NY 14853 USA.
+As additive manufacturing of mechanical parts gains broad acceptance, efforts to embed electronic or electromechanical components in these parts are intensifying. We discuss recent work in printable electronics and introduce an alternative, which we call Bitblox. Bitblox are small, modular, interconnecting blocks that embed simple electromechanical connectivity and functionality. Not all blocks are identical; instead the unique combinations and positions of Bitblox within an assembly determine the mechanical and electrical properties of the assembly. We describe the design details of Bitblox, compare them to similar materials, and demonstrate their use in a working three-dimensional printer through several examples.
+Modular robots; printable electronics; rapid prototyping; additive manufacturing; three-dimensional printing; programmable matter; smart matter; digital material; ELECTRONICS; FABRICATION; ROBOTICS; SYSTEMS; DESIGN
+6
+13
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1002/adem.201300562
+Letting Corrosion Work for You: Novel Pathways to Additive Manufacturing and Nanomaterial Synthesis Using Electrochemically-Driven Powder Consolidation
+Johannes, Andrew C.; Farmer, Joseph C.; Brewer, Luke N.; Osswald, Sebastian
+Johannes, AC (reprint author), Naval Postgrad Sch, Dept Mech & Aerosp Engn, Monterey, CA 93953 USA.
+The development of new material synthesis and manufacturing technologies may be one of the most important areas of research in the 21st century. In this study, we introduce the concept of a novel additive manufacturing technology, referred to as electrochemically-driven powder consolidation (EDPC), which utilizes naturally occurring electrochemical potentials to consolidate metal and non-metal powders to rigid bodies and complex shapes. In contrast to existing manufacturing techniques, the proposed technology does not require additional energy input in the form of pressure, heat, and/or laser power, opening new pathways for the development of a more energy-efficient, low-cost additive manufacturing technology. Using the example of lead, we outline the concept of EDPC and propose a five-stage model that describes the physical and chemical processes that govern the observed consolidation. A series of consolidation experiments with other elements (e.g. Sn, Zn, Cu) was conducted to identify the rate-controlling mechanisms and determine crucial process parameters of a potential EDPC manufacturing technology. Finally, the EDPC process was found to also hold great promise for the bulk synthesis of a variety of new materials, including nanoparticles, pellets, metal foams, and advanced composites.
+; LEAD; NANOPARTICLES; PARTICLES; MECHANISM; FLOWS; CRYSTALLIZATION; SEMICONDUCTORS; AGGLOMERATION; STABILITY; BATTERIES
+7
+21
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s00170-014-6037-7
+Simulation scan comparison for process monitoring using 3D scanning in manufacturing environments
+McAtee, Steven; Dunn, Michelle; Nagarajah, Romesh
+McAtee, S (reprint author), Swinburne Univ Technol, Ind Res Inst Swinburne, Hawthorn, Vic 3122, Australia.
+In order for robotics to be used in automated production facilities, the manufacturing systems must be highly constrained. Despite the efforts of designers to generate accurate simulations, differences often occur in the real implementation. These differences are especially common in flexible manufacturing where people are required to operate in the same space as automated machines. Objects located in unexpected positions or orientations, additional objects in the area or missing objects can cause a robot to perform the designated operations incorrectly leading to wastage and loss of production. Typically, robotic systems have no information about the real environment around it and operate blind. In order to provide more information to the robot about its environment, information such as 3D scans can be provided to the system. This research compares a 3D scan of what is present in the environment to a 3D simulation of what is expected in the environment. The simulation scan comparison (SSC) process detects missing, unknown and incorrectly located objects. The results from the comparison process can be used to make decisions about how operations should be performed so that the outcome is satisfactory. For example, if an unknown object is in the path of a robot, the robot can be rerouted around the object. The surfaces of both simulation objects and 3D scan data are described using triangles, allowing triangle neighbour data to be used for more efficient identification of unknown objects, and triangle normal data to detect missing objects. In addition, occupancy grids have been employed for both the path planning and surface-matching processes further increasing the computational efficiency of the system. The SSC process was used to detect missing, unknown and incorrectly located objects in a typical robot cell to an accuracy of 98 %, thus demonstrating that the SSC process is capable of identifying unknown objects or unexpected situations and using these detections to update the original simulation or alter the manufacturing process.
+3D scanning; Path planning; Occupancy grid; Surface matching; Manufacturing environment; ALGORITHM; SYSTEM
+3
+14
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s00170-014-6053-7
+Application of a hybrid process for high precision manufacture of difficult to machine prismatic parts
+Zhu, Zicheng; Dhokia, Vimal; Newman, Stephen T.; Nassehi, Aydin
+Dhokia, V (reprint author), Univ Bath, Dept Mech Engn, Bath BA2 7AY, Avon, England.
+In recent years, hybrid processes, which combine various individual manufacturing processes on a single platform, have drawn significant attention due to their ability to capitalise on the advantages of independent processes whilst minimising their disadvantages. Increased material removal rate, tool life, dimensional and geometric accuracy, and reduced production times have been achieved as some typical advantages of using hybrid processes. Despite the capabilities of individual processes continuously improving, production of highly accurate and complex structures, such as internal features, without assembly is still considered to be extremely difficult due to limited tool accessibility. This paper introduces a hybrid process entitled iAtractive, combining additive (i.e. Fused Filament Fabrication, FFF), subtractive (i.e. CNC machining) and inspection, which is capable of accurately producing complex part geometries. A novel process planning algorithm is developed, which addresses the three most important factors, namely, tool accessibility, production time and dimensional accuracy. A part is first orientated in a position and then decomposed into a number of subparts. The additive operations for producing these subparts together with the build directions are determined. The machining and inspection operations are then inserted into the scheduled additive operations, respectively, ensuring that the dimensions of the produced features are within the desired tolerances. A test part with internal features has been manufactured as one complete unit, where each surface of the features was finish machined, demonstrating the efficacy of the hybrid process and the process planning algorithm.
+Hybrid process; Process planning; Fused filament fabrication; CNC machining; Inspection; FABRICATION; DEPOSITION; OPTIMIZATION; ALLOYS
+5
+12
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.4283/JMAG.2014.19.3.273
+Design and Performance Analysis of Coreless Axial-Flux Permanent-Magnet Generator for Small Wind Turbines
+Chung, Dae-Won; You, Yong-Min
+Chung, DW (reprint author), Honam Univ, Dept Elect Engn, Kwangju 507714, South Korea.
+This paper presents an innovative design for a low-speed, direct-drive, axial-flux permanent-magnet (AFPM) generator with a coreless stator and rotor that is intended for application to small wind turbine power generation systems. The performance of the generator is evaluated and optimized by means of comprehensive 3D electromagnetic finite element analysis. The main focus of this study is to improve the power output and efficiency of wind power generation by investigating the electromagnetic and structural features of a coreless AFPM generator. The design is validated by comparing the performance achieved with a prototype. The results of our comparison demonstrate that the proposed generator has a number of advantages such as a simpler structure, higher efficiency over a wide range of operating speeds, higher energy yield, lighter weight and better power utilization than conventional machines. It would be possible to manufacture low-cost, axial-flux permanent-magnet generators by further developing the proposed design.
+axial-flux permanent-magnet (AFPM); coreless stator; direct-drive wind power generator; low speed; design optimization; STATOR; MACHINES
+2
+7
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.jngse.2014.07.006
+An investigation of interaction of drilling fluids with gas hydrates in drilling hydrate bearing sediments
+Fereidounpour, Ali; Vatani, Ali
+Vatani, A (reprint author), Univ Tehran, Sch Chem Engn, Tehran, Iran.
+Natural gas hydrates, preserved in deep ocean sediments, are supposed to be the future hydrocarbon source of energy. The possibility of gas production from natural gas hydrate bearing sediments (NGHBS) has been scrutinized by many researchers. Thermal stimulation, depressurization and use of thermodynamic inhibitors are three main proposed approaches to produce gas from the hydrates. When drilling through NGHBS, these mechanisms may cause wellbore instability and other drilling hazards such as severe mud gasification, low quality logging and cementing, casing collapse due to high pressure gas accumulation behind the casing, casing subsidence due to NGHBS failure and consequently instability of the ocean floor. In this study, the mechanism of thermal stimulation was studied. An experimental set up was designed and manufactured to investigate hydrate behavior when it comes in contact with warmer drilling fluids. Several muds with different additives were tested to investigate which properties are responsible for wellbore integrity maintenance. For this intention, linear temperature distribution in the hydrate was recorded for near distance from hydrate mud contact and the hydrate dissociation rate was calculated. The purpose was to reduce the heat flux of the drilling fluid into the hydrate using relevant additives or by altering the mud circulation rate. Experimental results were validated by a hydrate dissociation model to obtain viable assessment for designing prospective exploration wells. (C) 2014 Elsevier B.V. All rights reserved.
+Natural gas hydrates; Well-bore stability; Bearing sediments drilling
+2
+13
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.4038/jnsfsr.v42i3.7398
+Surfactant-assisted synthesis of pure calcium carbonate nanoparticles from Sri Lankan dolomite
+Mantilaka, M. M. M. G. P. G.; Wijesinghe, W. P. S. L.; Pitawala, H. M. T. G. A.; Rajapakse, R. M. G.; Karunaratne, D. G. G. P.
+Mantilaka, MMMGPG (reprint author), Univ Peradeniya, Postgrad Inst Sci, Peradeniya, Sri Lanka.
+Sri Lanka is rich in extensive deposits of dolomitic marbles with large quantities, which have not yet been exploited on an industrial-scale to produce value-added products such as precipitated calcium carbonate (PCC) nanoparticles. PCC is used extensively and is imported by Sri Lankan industries for application as a filler and extender. Hence, this work attempts to examine Sri Lankan impure dolomitic marbles as a source for the synthesis of pure PCC nanoparticles, so as to fulfill the current industrial demand and to add value to the cheap and mundane marbles. As reported in this paper, the calcium (Ca) components of the marbles can be extracted from impurities by preparing solutions of saturated calcium hydroxide, calcium citrate, Ca2+-ethylenediaminetetraacetic acid complexes and calcium sucrate, separately from dolomite. PCC nanoparticles are then synthesized by adding sodium carbonate to each calcium extract. The results shows that the best extract. to synthesize PCC nanoparticles with high yield and purity is calcium sucrate. Here, calcium sucrate has been used for surfactant assisted hydrothermal synthesis of PCC nanoparticles with particle sizes ranging from 38.9 - 51.6 nm, which is a novel effort. This method could be applied to manufacture PCC nanoparticles on an industrial-scale.
+Calcite; calcium carbonate; dolomitic marble nanoparticles; precipitated calcium carbonate; value addition; PYROMELLITIC ACID; CITRIC-ACID; PRECIPITATION; ARAGONITE; CITRATE; EDTA; NUCLEATION; ATMOSPHERE; PARTICLES; ADDITIVES
+6
+15
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/0957-0233/25/9/094013
+In-situ volumetric topography of IC chips for defect detection using infrared confocal measurement with active structured light
+Chen, Liang-Chia; Le, Manh-Trung; Phuc, Dao Cong; Lin, Shyh-Tsong
+Chen, LC (reprint author), Natl Taiwan Univ, Dept Mech Engn, Taipei, Taiwan.
+The article presents the development of in-situ integrated circuit (IC) chip defect detection techniques for automated clipping detection by proposing infrared imaging and full-field volumetric topography. IC chip inspection, especially held during or post IC packaging, has become an extremely critical procedure in IC fabrication to assure manufacturing quality and reduce production costs. To address this, in the article, microscopic infrared imaging using an electromagnetic light spectrum that ranges from 0.9 to 1.7 mu m is developed to perform volumetric inspection of IC chips, in order to identify important defects such as silicon clipping, cracking or peeling. The main difficulty of infrared (IR) volumetric imaging lies in its poor image contrast, which makes it incapable of achieving reliable inspection, as infrared imaging is sensitive to temperature difference but insensitive to geometric variance of materials, resulting in difficulty detecting and quantifying defects precisely. To overcome this, 3D volumetric topography based on 3D infrared confocal measurement with active structured light, as well as light refractive matching principles, is developed to detect defects the size, shape and position of defects in ICs. The experimental results show that the algorithm is effective and suitable for in-situ defect detection of IC semiconductor packaging. The quality of defect detection, such as measurement repeatability and accuracy, is addressed. Confirmed by the experimental results, the depth measurement resolution can reach up to 0.3 mu m, and the depth measurement uncertainty with one standard deviation was verified to be less than 1.0% of the full-scale depth-measuring range.
+automated optical inspection (AOI); infrared imaging; IC inspection; clipping detection; shape from focus (SFF); virtual confocal microscope; IMAGE-CONTRAST ENHANCEMENT
+2
+6
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1021/ph500078f
+Large-Area Printing of Optical Gratings and 3D Photonic Crystals Using Solution-Processable Nanoparticle/Polymer Composites
+Beaulieu, Michael R.; Hendricks, Nicholas R.; Watkins, James J.
+Watkins, JJ (reprint author), Univ Massachusetts, Dept Polymer Sci & Engn, Ctr Hierarch Mfg, 120 Governors Dr, Amherst, MA 01003 USA.
+We demonstrate a readily scalable print, lift, and stack approach for producing large-area, 3D photonic crystal (PC) structures and optical gratings. UV-assisted nanoimprint lithography was used to pattern grating structures composed of highly filled nanoparticle (NP) polymer composite resists with tunable refractive indices (RI). The gratings were robust and upon release from a support substrate were oriented and stacked to yield 3D PCs. The composite resists were composed of anatase titania (TiO2) NPs, between S and 30 nm in diameter, and a UV-curable optical resist (Nor land Optical Adhesive 60). The RI of the composite resists was tuned between 1.58 and 1.92 at 800 nm while maintaining excellent optical transparency. The grating structure dimensions, line width, depth, and pitch were easily varied by simply changing the imprint mold. A six-layer log-pile stack was prepared using a composite resist containing 50 wt % TiO2 NPs with an RI of 1.72 and yielded up to 72% reflection at 840 nm and a minimum reflection of 50% over broad angles of incidence (25-65 degrees) and grating areas of >6 cm(2). The grating patterning process is readily scalable for roll-to-roll production, and the ability to tailor RI as well as grating structure dimensions and orientation offers an attractive means for large-area production of tuned optical materials, while automating alignment will enable high-volume production of PCs.
+nanoimprint lithography (NIL); nanoparticles; photonic band gap (PBG); photoresist; refractive index; HOLOGRAPHIC LITHOGRAPHY; SPONTANEOUS EMISSION; LIGHT-EMISSION; QUANTUM-DOT; FABRICATION; TEMPLATES; POLYMERS; MICROSTRUCTURES; NANOCAVITY; OXIDES
+24
+79
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.compbiomed.2014.06.002
+Experimental validation of 3D printed patient-specific implants using digital image correlation and finite element analysis
+Sutradhar, Alok; Park, Jaejong; Carrau, Diana; Miller, Michael J.
+Sutradhar, A (reprint author), Ohio State Univ, Dept Plast Surg, 915 Olentangy River Rd,Suite 2109, Columbus, OH 43212 USA.
+With the dawn of 3D printing technology, patient-specific implant designs are set to have a paradigm shift. A topology optimization method in designing patient-specific craniofacial implants has been developed to ensure adequate load transfer mechanism and restore the form and function of the mid-face. Patient-specific finite element models are used to design these implants and to validate whether they are viable for physiological loading such as mastication. Validation of these topology optimized finite element models using mechanical testing is a critical step. Instead of inserting the implants into a cadaver or patient, we embed the implants into the computer-aided skull model of a patient and, fuse them together to 3D print the complete skull model with the implant. Masticatory forces are applied in the molar region to simulate chewing and measure the stress-strain trajectory. Until recently, strain gages have been used to measure strains for validation. Digital Image Correlation (DIC) method is a relatively new technique for full-field strain measurement which provides a continuous deformation field data. The main objective of this study is to validate the finite element model of patient-specific craniofacial implants against the strain data from the DIC obtained during the mastication simulation and show that the optimized shapes provide adequate load-transfer mechanism. Patient-specific models are obtained from CT scans. The principal maximum and minimum strains are compared. The computational and experimental approach to designing patient-specific implants proved to be a viable technique for mid-face craniofacial reconstruction. (C) 2014 Elsevier Ltd. All rights reserved.
+Craniofacial implants; Topology optimization; Segmental bone defect; Digital image correlation; Masticatory simulation; FIBULA OSTEOMYOCUTANEOUS FLAP; TOPOLOGY OPTIMIZATION; RECONSTRUCTION; BONE; MAXILLECTOMY; MODELS
+12
+58
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.jglr.2014.05.011
+Trends of PCB concentrations in Lake Michigan coho and chinook salmon, 1975-2010
+Rasmussen, Paul W.; Schrank, Candy; Williams, Meghan C. W.
+Schrank, C (reprint author), Wisconsin Dept Nat Resources, 101 S Webster St, Madison, WI 53707 USA.
+The manufacture and use of polychlorinated biphenyls (PCBs) was banned in the United States in 1977 after it was determined that these compounds adversely affect animals and humans. The Wisconsin Department of Natural Resources has quantified total PCB concentrations in Lake Michigan chinook (n = 765) and coho (n = 393) salmon (Oncorhynchus tshawytscha and Oncorhynchus kisutch, respectively) filets since 1975. We analyzed these data to estimate trends in PCB concentrations in these fish (1975-2010). We used generalized linear models with a gamma error distribution and log link fit to the untransformed concentrations. Trend patterns were examined using graphical smoothing and generalized additive models. We identified a candidate set of models that included time trend and other predictor variables. Using the Akaike Information Criterion to select among models we found the best models for both species included piecewise linear time trends, total body length, % lipid, and collection season as predictor variables. The intersection of the two trends was 1985 for chinook salmon and 1984 for coho salmon. PCB concentrations in both species increased with body length and % lipid, and were higher for individuals caught in the fall. Our data reveals a dramatic decline in PCB concentrations of -16.7% and -23.9% per year for chinook and coho, respectively, up until the intersection year likely reflecting implementation of restrictions on Arodor-based PCBs. After the intersection year to 2010, PCB concentrations declined at an annual rate of -4.0% (95% CI: -4.4% to -3.6%) and -2.6% (95% CI: -33% to -1.9%) for chinook and coho, respectively. (C) 2014 International Association for Great Lakes Research. Published by Elsevier B.V. All rights reserved.
+PCBs; Lake Michigan; Coho; Chinook; Salmon; Temporal trends; TROUT SALVELINUS-NAMAYCUSH; GREAT-LAKES; POLYCHLORINATED-BIPHENYLS; ORGANOCHLORINE PESTICIDES; ORGANIC CONTAMINANTS; FISH; DIFFERENCE; DYNAMICS; PATTERNS; INFANTS
+7
+25
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10.1118/1.4893497
+Quantum noise properties of CT images with anatomical textured backgrounds across reconstruction algorithms: FBP and SAFIRE
+Solomon, Justin; Samei, Ehsan
+Solomon, J (reprint author), Duke Univ, Med Ctr, Dept Radiol, Carl E Ravin Adv Imaging Labs, Durham, NC 27705 USA.
+Purpose: Quantum noise properties of CT images are generally assessed using simple geometric phantoms with uniform backgrounds. Such phantoms may be inadequate when assessing nonlinear reconstruction or postprocessing algorithms. The purpose of this study was to design anatomically informed textured phantoms and use the phantoms to assess quantum noise properties across two clinically available reconstruction algorithms, filtered back projection (FBP) and sinogram affirmed iterative reconstruction (SAFIRE).
+computed tomography; background anatomy; quantum noise; image quality; iterative reconstruction; RADIATION-DOSE REDUCTION; STATISTICAL ITERATIVE RECONSTRUCTION; ABDOMINAL COMPUTED-TOMOGRAPHY; SPATIAL-RESOLUTION PROPERTIES; FILTERED BACK-PROJECTION; X-RAY; QUALITY; ANGIOGRAPHY; PERFORMANCE; SCANNERS Methods: Two phantoms were designed to represent lung and soft-tissue textures. The lung phantom included intricate vessel-like structures along with embedded nodules (spherical, lobulated, and spiculated). The soft tissue phantom was designed based on a three-dimensional clustered lumpy background with included low-contrast lesions (spherical and anthropomorphic). The phantoms were built using rapid prototyping (3D printing) technology and, along with a uniform phantom of similar size, were imaged on a Siemens SOMATOM Definition Flash CT scanner and reconstructed with FBP and SAFIRE. Fifty repeated acquisitions were acquired for each background type and noise was assessed by estimating pixel-value statistics, such as standard deviation (i.e., noise magnitude), autocorrelation, and noise power spectrum. Noise stationarity was also assessed by examining the spatial distribution of noise magnitude. The noise properties were compared across background types and between the two reconstruction algorithms. Results: In FBP and SAFIRE images, noise was globally nonstationary for all phantoms. In FBP images of all phantoms, and in SAFIRE images of the uniform phantom, noise appeared to be locally stationary (within a reasonably small region of interest). Noise was locally nonstationary in SAFIRE images of the textured phantoms with edge pixels showing higher noise magnitude compared to pixels in more homogenous regions. For pixels in uniform regions, noise magnitude was reduced by an average of 60% in SAFIRE images compared to FBP. However, for edge pixels, noise magnitude ranged from 20% higher to 40% lower in SAFIRE images compared to FBP. SAFIRE images of the lung phantom exhibited distinct regions with varying noise texture (i. e., noise autocorrelation/power spectra). Conclusions: Quantum noise properties observed in uniform phantoms may not be representative of those in actual patients for nonlinear reconstruction algorithms. Anatomical texture should be considered when evaluating the performance of CT systems that use such nonlinear algorithms. c 2014 American Association of Physicists in Medicine.
+4
+21
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+10.1002/suco.201300088
+Review of possible mineral materials and production techniques for a building material on the moon
+Wilhelm, Sebastian; Curbach, Manfred
+Wilhelm, S (reprint author), Tech Univ Dresden, Inst Concrete Struct, D-01062 Dresden, Germany.
+This article provides an overview of the findings and production processes for the mineral materials that have been developed and tested worldwide in the past with regard to the establishment of a lunar base. Firstly, the aim of and procedure for constructing a lunar base are briefly outlined. Following that, the lunar environment factors and their influence on a possible structure are described. The paper then presents the advantages and disadvantages of the materials examined, such as sulphur concrete, cast basalt, lunar concrete or polymer concrete, on the one hand, as well as production processes investigated previously, such as sintering, geothermite reaction and 3D printing, on the other. One promising method is the dry-mix/steam-injection (DMSI) method for producing a lunar concrete as a possible material which was developed by T. D. Lin and is based on cement made from lunar resources.
+mineral materials; lunar base design; building materials; lunar concrete; cast basalt; sulphur concrete; moon; lunar environment; lunar cement; DMSI; SULFUR CONCRETE; LUNAR SOIL; CONSTRUCTION; ENVIRONMENTS; STEAM; WATER; BASES
+7
+37
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/1758-5082/6/3/035006
+Biofabrication of customized bone grafts by combination of additive manufacturing and bioreactor knowhow
+Costa, Pedro F.; Vaquette, Cedryck; Baldwin, Jeremy; Chhaya, Mohit; Gomes, Manuela E.; Reis, Rui L.; Theodoropoulos, Christina; Hutmacher, Dietmar W.
+Costa, PF (reprint author), Univ Minho, Headquarters European Inst Excellence Tissue Engn, Res Grp Biomat Biodegradables & Biomimet 3Bs, Guimaraes, Portugal.
+This study reports on an original concept of additive manufacturing for the fabrication of tissue engineered constructs (TEC), offering the possibility of concomitantly manufacturing a customized scaffold and a bioreactor chamber to any size and shape. As a proof of concept towards the development of anatomically relevant TECs, this concept was utilized for the design and fabrication of a highly porous sheep tibia scaffold around which a bioreactor chamber of similar shape was simultaneously built. The morphology of the bioreactor/scaffold device was investigated by micro-computed tomography and scanning electron microscopy confirming the porous architecture of the sheep tibiae as opposed to the non-porous nature of the bioreactor chamber. Additionally, this study demonstrates that both the shape, as well as the inner architecture of the device can significantly impact the perfusion of fluid within the scaffold architecture. Indeed, fluid flow modelling revealed that this was of significant importance for controlling the nutrition flow pattern within the scaffold and the bioreactor chamber, avoiding the formation of stagnant flow regions detrimental for in vitro tissue development. The bioreactor/scaffold device was dynamically seeded with human primary osteoblasts and cultured under bi-directional perfusion for two and six weeks. Primary human osteoblasts were observed homogenously distributed throughout the scaffold, and were viable for the six week culture period. This work demonstrates a novel application for additive manufacturing in the development of scaffolds and bioreactors. Given the intrinsic flexibility of the additive manufacturing technology platform developed, more complex culture systems can be fabricated which would contribute to the advances in customized and patient-specific tissue engineering strategies for a wide range of applications.
+additive manufacturing; bioreactor; tissue engineering; biofabrication; custom-made scaffolds; TISSUE-ENGINEERING APPLICATIONS; MINERALIZED MATRIX DEPOSITION; 3D PERFUSION CULTURE; IN-VITRO; SEEDING DENSITY; SCAFFOLDS; FLOW; SYSTEM; CONSTRUCTS; INCREASES
+2
+29
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/1758-5082/6/3/035024
+3D printing of new biobased unsaturated polyesters by microstereo-thermallithography
+Goncalves, Filipa A. M. M.; Costa, Catia S. M. F.; Fabela, Ines G. P.; Farinha, Dina; Faneca, Henrique; Simoes, Pedro N.; Serra, Armenio C.; Bartolo, Paulo J.; Coelho, Jorge F. J.
+Coelho, JFJ (reprint author), Univ Coimbra, CEMUC Chem Engn Dept, Polo 2, P-3030290 Coimbra, Portugal.
+New micro three-dimensional (3D) scaffolds using biobased unsaturated polyesters (UPs) were prepared by microstereo-thermal-lithography (STLG). This advanced processing technique offers indubitable advantages over traditional printing methods. The accuracy and roughness of the 3D structureswere evaluated by scanning electron microscopy and infinite focus microscopy, revealing a suitable roughness for cell attachment. UPs were synthesized by bulk polycondensation between biobased aliphatic diacids (succinic, adipic and sebacic acid) and two different glycols (propylene glycol and diethylene glycol) using fumaric acid as the source of double bonds. The chemical structures of the new oligomers were confirmed by proton nuclear magnetic resonance spectra, attenuated total reflectance Fourier transform infrared spectroscopy and matrix assisted laser desorption/ionization-time of flight mass spectrometry. The thermal and mechanical properties of the UPs were evaluated to determine the influence of the diacid/glycol ratio and the type of diacid in the polyester's properties. In addition an extensive thermal characterization of the polyesters is reported. The data presented in this work opens the possibility for the use of biobased polyesters in additive manufacturing technologies as a route to prepare biodegradable tailor made scaffolds that have potential applications in a tissue engineering area.
+unsaturated polyesters; biocompatibility; stereolithography; 3D scaffolds; RENEWABLE RESOURCES; CELL RESPONSE; STYRENE; COPOLYMERS; POLYMERS; RESINS; BONE; ACID
+12
+72
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/1758-5082/6/3/035020
+Biofabrication of tissue constructs by 3D bioprinting of cell-laden microcarriers
+Levato, Riccardo; Visser, Jetze; Planell, Josep A.; Engel, Elisabeth; Malda, Jos; Mateos-Timoneda, Miguel A.
+Levato, R (reprint author), Inst Bioengn Catalonia IBEC, Biomat Regenerat Therapies Grp, Barcelona, Spain.
+Bioprinting allows the fabrication of living constructs with custom-made architectures by spatially controlled deposition of multiple bioinks. This is important for the generation of tissue, such as osteochondral tissue, which displays a zonal composition in the cartilage domain supported by the underlying subchondral bone. Challenges in fabricating functional grafts of clinically relevant size include the incorporation of cues to guide specific cell differentiation and the generation of sufficient cells, which is hard to obtain with conventional cell culture techniques. A novel strategy to address these demands is to combine bioprinting with microcarrier technology. This technology allows for the extensive expansion of cells, while they form multi-cellular aggregates, and their phenotype can be controlled. In this work, living constructs were fabricated via bioprinting of cell-laden microcarriers. Mesenchymal stromal cell (MSC)-laden polylactic acid microcarriers, obtained via static culture or spinner flask expansion, were encapsulated in gelatin methacrylamide-gellan gum bioinks, and the printability of the composite material was studied. This bioprinting approach allowed for the fabrication of constructs with high cell concentration and viability. Microcarrier encapsulation improved the compressive modulus of the hydrogel constructs, facilitated cell adhesion, and supported osteogenic differentiation and bone matrix deposition by MSCs. Bilayered osteochondral models were fabricated using microcarrier-laden bioink for the bone compartment. These findings underscore the potential of this new microcarrier-based biofabrication approach for bone and osteochondral constructs.
+microcarriers; hydrogel; composite materials; bioprinting; osteochondral; cell expansion; MESENCHYMAL STEM-CELLS; CHONDROGENIC DIFFERENTIATION; CHONDROCYTE DIFFERENTIATION; MECHANICAL-PROPERTIES; HYALURONIC-ACID; CARTILAGE; HYDROGELS; CULTURE; BONE; GELATIN
+24
+93
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+10.1088/1758-5082/6/3/035003
+A novel technique for the production of electrospun scaffolds with tailored three-dimensional micro-patterns employing additive manufacturing
+Rogers, Catherine M.; Morris, Gavin E.; Gould, Toby W. A.; Bail, Robert; Toumpaniari, Sotiria; Harrington, Helen; Dixon, James E.; Shakesheff, Kevin M.; Segal, Joel; Rose, Felicity R. A. J.
+Rogers, CM (reprint author), Univ Nottingham, Sch Pharm, Ctr Biomol Sci, Div Drug Delivery & Tissue Engn, Nottingham NG7 2RD, England.
+Electrospinning is a common technique used to fabricate fibrous scaffolds for tissue engineering applications. There is now growing interest in assessing the ability of collector plate design to influence the patterning of the fibres during the electrospinning process. In this study, we investigate a novel method to generate hybrid electrospun scaffolds consisting of both random fibres and a defined three-dimensional (3D) micro-topography at the surface, using patterned resin formers produced by rapid prototyping (RP). Poly(D, L-lactide-co-glycolide) was electrospun onto the engineered RP surfaces and the ability of these formers to influence microfibre patterning in the resulting scaffolds visualized by scanning electron microscopy. Electrospun scaffolds with patterns mirroring the microstructures of the formers were successfully fabricated. The effect of the resulting fibre patterns and 3D geometries on mammalian cell adhesion and proliferation was investigated by seeding enhanced green fluorescent protein labelled 3T3 fibroblasts onto the scaffolds. Following 24 h and four days of culture, the seeded scaffolds were visually assessed by confocal macro-and microscopy. The patterning of the fibres guided initial cell adhesion to the scaffold with subsequent proliferation over the geometry resulting in the cells being held in a 3D micro-topography. Such patterning could be designed to replicate a specific in vivo structure; we use the dermal papillae as an exemplar here. In conclusion, a novel, versatile and scalable method to produce hybrid electrospun scaffolds has been developed. The 3D directional cues of the patterned fibres have been shown to influence cell behaviour and could be used to culture cells within a similar 3D micro-topography as experienced in vivo.
+electrospinning; rapid prototyping; additive manufacturing; 3D geometry; cell adhesion; UNIAXIALLY ALIGNED ARRAYS; STEM-CELLS; NANOFIBERS; DIFFERENTIATION; MIGRATION; POLYMER; FIBERS
+18
+81
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/1758-5082/6/3/035017
+Effect of cold storage on collagen-based hydrogels for the three-dimensional culture of adipose-derived stem cells
+Sancho, Ana; Vazquez, Lexuri; De-Juan-Pardo, Elena M.
+Sancho, A (reprint author), Univ Wurzburg, Dept & Chair Funct Mat Med & Dent, Wurzburg, Germany.
+Collagen gels have been extensively used as three-dimensional (3D) cell culture systems. To enhance their mechanical properties, the manufacture of collagen-based gels with agarose has been proposed. However, little is known about the stability of these gels under cold storage conditions. The consequences of cold storage on biological tissues for clinical applications are known to be significant; yet, they have not been considered on hydrogels used for in vitro experiments. This work studies the effect of extended cold storage on the stability of collagen and collagen-agarose hydrogels using rheometry and scanning electron microscopy. In addition, cell-matrix interactions of adipose-derived stem cells (ADSC) have been studied using these gels. Results show that both the storage modulus (G') and loss modulus (G.) of pure collagen gels gradually decrease with extended cold storage along the 30 days of the study, while G' and G. increase in collagen-agarose gels under the same conditions. Moreover, significant changes in both moduli of collagen-agarose gels were only found after 30 days of cold storage, while in the case of collagen gels significant changes were already detected after 7 days. Finally, a reduction in the ability of ADSC to remodel the gel after prolonged cold storage was observed. To the best of our knowledge, this is the first work proving that cold storage of hydrogels prior to cell culture might have a significant impact on their mechanical properties and cell-matrix interactions.
+collagen; agarose; 3D in vitro models; cold storage; hydrogels; EXTRACELLULAR MATRICES; MECHANICAL-PROPERTIES; NONFIBRILLAR MATRIX; AGAROSE; MODEL; GELS; DIFFERENTIATION; ENCAPSULATION; TISSUES
+2
+9
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/1758-5082/6/3/035001
+Three-dimensional printing of Hela cells for cervical tumor model in vitro
+Zhao, Yu; Yao, Rui; Ouyang, Liliang; Ding, Hongxu; Zhang, Ting; Zhang, Kaitai; Cheng, Shujun; Sun, Wei
+Sun, W (reprint author), Tsinghua Univ, Dept Mech Engn, Biomfg Ctr, Beijing 100084, Peoples R China.
+Advances in three-dimensional (3D) printing have enabled the direct assembly of cells and extracellular matrix materials to form in vitro cellular models for 3D biology, the study of disease pathogenesis and new drug discovery. In this study, we report a method of 3D printing for Hela cells and gelatin/alginate/fibrinogen hydrogels to construct in vitro cervical tumor models. Cell proliferation, matrix metalloproteinase (MMP) protein expression and chemoresistance were measured in the printed 3D cervical tumor models and compared with conventional 2D planar culture models. Over 90% cell viability was observed using the defined printing process. Comparisons of 3D and 2D results revealed that Hela cells showed a higher proliferation rate in the printed 3D environment and tended to form cellular spheroids, but formed monolayer cell sheets in 2D culture. Hela cells in 3D printed models also showed higher MMP protein expression and higher chemoresistance than those in 2D culture. These new biological characteristics from the printed 3D tumor models in vitro as well as the novel 3D cell printing technology may help the evolution of 3D cancer study.
+3D cell printing; bioprinting; tumor models; in vitro tumor model; cancer model; MATRIX METALLOPROTEINASES; MULTICELLULAR SPHEROIDS; CULTURE MODELS; CANCER; TISSUE; FABRICATION; CONSTRUCTS; GENERATION; RESISTANCE; INHIBITORS
+15
+82
+26
+0
+0
+1
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+10.1597/13-041
+Three-Dimensional Simulation of the Nasoalveolar Cleft Defect
+Palhazi, Peter; Nemes, Balint; Swennen, Gwen; Nagy, Krisztian
+Palhazi, P (reprint author), Jozsef Krt 30-32 2 Em,5-A, H-1085 Budapest, Hungary.
+This study describes the planning process for a three-dimensional (3D) model of a nasoalveolar bone graft in patients with unilateral cleft lip and palate. A 3D reconstruction of the alveolar cleft based on cone-beam computed tomography was performed in 10 patients. Graft models were planned using a 3D planning software (iPlan ENT 3.0, Brainlab, Feldkirchen, Germany) and printed using a 3D printer (Objet30 Pro, Objet Ltd., Rehovot, Israel). A reproducible, step-by-step planning method was established, which is manual rather than automatic. Still, the 3D visualization and a life-size graft template could be useful during secondary alveolar osteoplasty.
+3D simulation; nasoalveolar bone graft; template; RECONSTRUCTION; LIP; ALVEOLUS; PALATE
+5
+10
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10.1109/TAP.2014.2330615
+An Octave-Bandwidth Half Maxwell Fish-Eye Lens Antenna Using Three-Dimensional Gradient-Index Fractal Metamaterials
+Xu, He-Xiu; Wang, Guang-Ming; Tao, Zui; Cai, Tong
+Xu, HX (reprint author), Air Force Engn Univ, Missile Inst, Xian 710051, Peoples R China.
+The design and performance of a novel octave-bandwidth highly-directive half Maxwell fish-eye (HMFE) lens antenna are presented in superextended C band. The three-dimensional (3D) HMFE lens is implemented by gradient-refractive-index (GRIN) metamaterials and launched by an omnidirectional planar microstrip trapezoid printed monopole from the perspective of high integration, light weight and low profile. A new approach is proposed to design the GRIN metamaterial element in terms of a deep subwavelength feature by incorporating fractal geometry. Numerical and experimental results coincide well, showing that the lens enables a considerable gain enhancement of the monopole near 10 dB across a frequency range of 3 to 7.5 GHz while without significantly affecting the cross-polarization patterns and impedance matching. The near-field free-space measurement is also performed in an octave to afford a physical insight into the high gain, which is attributable to the accurate conversion of quasi-spherical waves to plane waves. Moreover, the truncation and homogenization effects of the lens on the antenna directivity are investigated to illustrate the fundamental mechanisms and afford the design guidelines.
+Broadband; compact; fractals; gradient-refractive-index metamaterial; half Maxwell fisheye lens; DESIGN; WAVES
+14
+44
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1109/TCPMT.2014.2342156
+Ring-Shaped Substrate Integrated Waveguide Wilkinson Power Dividers/Combiners
+Djerafi, Tarek; Hammou, Djilali; Wu, Ke; Tatu, Serioja Ovidiu
+Djerafi, T (reprint author), Inst Natl Rech Sci Energie Mat & Telecommun, Montreal, PQ H5A 1K6, Canada.
+This paper proposes and presents a class of substrate integrated waveguide (SIW) power dividers/combiners based on a modified Wilkinson architecture. The proposed design consists of a ring-type circuit of 1.5 lambda g length with three waveguide ports. Impedance variation without affecting cutoff frequency and integration of isolation resistance are the two major limitations in connection with the design of SIW Wilkinson structures. Central ring part with different thickness ensures different impedance in the first proposed scheme while the half-mode SIW in the second option. As for the second limitation, the optimal configuration of integrating the isolation resistance is studied. A version without resistance is also examined using a broad-wall series slot. To validate the proposed concept, a bilayered circuit with standard Printed circuit board prototype was fabricated and measured. A table summarizing performances of all the proposed circuits shows a bandwidth of around 25% at the 10 dB reference. A negligible additional insertion loss is observed. The proposed design techniques are found useful at millimeter-wave frequencies where reduced physical dimensions make a circuit configuration suitable for low-cost implementation. This concept is also valid for rectangular waveguide counterparts.
+Isolation resistance; power divider/combiner; series slot; substrate integrated waveguide (SIW); Wilkinson; BAND; INTERCONNECTS; CIRCUITS
+7
+21
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1109/TCPMT.2014.2338791
+Efficient Path Planning Algorithm for Additive Manufacturing Systems
+Thompson, Bradley; Yoon, Hwan-Sik
+Thompson, B (reprint author), Univ Alabama, Dept Mech Engn, Tuscaloosa, AL 35487 USA.
+Recent additive manufacturing technologies, such as 3-D printing and printed electronics, require constant speed motion for consistent material deposition. In this paper, a new path planning algorithm is developed for an XY-motion stage with an emphasis on aerosol printing. The continuous aerosol stream provided by the printing nozzle requires constant velocity in relative motion of a substrate to evenly deposit inks. During transitioning between print segments, a shutter prevents the aerosol from reaching the substrate, therefore wasting material. The proposed path planning algorithm can control motion of an XY stage for an arbitrary printing path and desired velocity while minimizing material waste. Linear segments with parabolic blends (LSPBs) trajectory planning is used during printing, and minimum time trajectory (MTT) planning is used during printer transition. Simulation results show that combining LSPB with MTT can minimize the printing time while following the desired path.
+Additive manufacturing; aerosol printing; linear segments with parabolic blends (LSPBs); minimum time trajectory (MTT)
+3
+14
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s12541-014-0535-2
+Seamlessly wound multi-level cable drive system for high reduction gear ratio
+Lee, Bum-Joo
+Lee, BJ (reprint author), Myongji Univ, Dept Elect Engn, San 38-2 Namdong, Yongin 449728, Gyeonggi Do, South Korea.
+In this paper, cable drive mechanism is proposed to implement high reduction gear ratio. Although cable drive mechanism has great advantages such as light weight, zero backlashes and high degree of freedom in terms of mechanical design, it is restrictively utilized for the robotic applications because it is hard to implement high reduction gear ratio over 10 to 1. This is due to the complexity of tension adjustment units which should be installed at every reduction level for the conventional mechanism. Therefore mechanical structure becomes rather bulky and heavy to mount in the robotic joint. Proposed mechanism implements multi-level reductions by adopting seamless winding method which links the previous output axis to the next input axis. This enables high reduction with only one single wire cable. Consequently, it is possible to reduce the mechanical complexity significantly. Based on the proposed method, 3D CAD design was provided and prototype was manufactured. Moreover, experiments were carried out and the results were analyzed.
+Reduction gear; Cable drive; Actuator; Zero backlash and back drivability
+4
+6
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s12541-014-0551-2
+Feasibility of using Copper(II)Oxide for additive manufacturing
+Yang, Yunho; Yarka, Christopher; Cao, Jian; Ehmann, Kornel
+Yang, YH (reprint author), Northwestern Univ, Dept Mech Engn, 2145 Sheridan Rd, Evanston, IL 60208 USA.
+Additive manufacturing, in spite of its ever wider application range, is still plagued by issues ranging from accuracy to surface finish. In this study, to address the latter issue, the feasibility of using Copper(II)Oxide powder with a polymer binder deposited through a Fused Deposition Modeling (FDM) 3D printing technique is explored. In particular, the post processing of the green components through a newly developed furnace sintering process is investigated. The properties of the generated test samples were assessed by using Scanning Electron Microscope (SEM), surface roughness and optical analysis methods in addition to properties of the sintered samples through Energy Dispersive X-Ray Spectrometry (EDS).
+Furnace sintering; 3D printing; FDM; Copper(II) oxide; Debinding; Chemical reduction
+7
+28
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10.1016/j.jas.2014.05.031
+Determining the reduction sequence of Hawaiian quadrangular adzes using 3D approaches: a case study from Moloka'i
+Clarkson, Chris; Shipton, Ceri; Weisler, Marshall
+Clarkson, C (reprint author), Univ Queensland, Sch Social Sci, Brisbane, Qld, Australia.
+Hawaiian adze manufacture requires a great deal of skill and undoubtedly required long apprenticeships to achieve the finesse seen in many finished prehistoric adzes. Despite the presence of more than two dozen adze quarries in Hawaii, and previous attempts at replicating adze preforms and positing reduction sequences in Polynesia, there is no detailed study that clearly defines the steps and stages of quadrangular adze preform manufacture (the most common form in Hawaii), and the resulting characteristic debitage. In this paper we examine the sequence of adze production for a population of 109 adzes from Moloka'i, documenting the transition from blanks to preforms to the finished objects that were transported away from quarries. Reduction intensity is measured using the Scar Density Index (Clarkson, 2013) calculated from 3D scans. We document the sequence of cumulative additions of characteristic features to adzes (e.g. bidirectional edges, bevel, poll and tang) as reduction intensity increases. We also note the reasons for adze rejection at each stage of reduction. Our study provides the first detailed analysis of adze reduction in Polynesia facilitated and standardised by 3D scanning technology. Hopefully, it will serve as a useful benchmark for objectively and systematically comparing adze technology in other parts of Hawaii and across Polynesia, leading to a better understanding of regional and temporal variation in adze technology. Crown Copyright (C) 2014 Published by Elsevier Ltd. All rights reserved.
+Hawaiian adze; Reduction sequence; Scar density index; 3D scanner; Skill; Discard criteria; Moloka'i
+0
+2
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1002/macp.201400220
+Individually Addressable Suspended Conducting-Polymer Wires in a Chemiresistive Gas Sensor
+Chang, Won Suk; Kim, Jung Hyun; Kim, Daeho; Cho, Sung Ho; Seol, Seung Kwon
+Seol, SK (reprint author), KERI, NanoHybrid Technol Res Ctr, Changwon Si 642120, Gyeongsangnam D, South Korea.
+An effective method is described for producing poly(3,4-ethylenedioxythiophene) poly(styrenesulfonate) (PEDOT:PSS) arched microwires, which are used as transducers in chemiresistive gas sensors. Three-dimensional arched wires with diameters of 0.8, 1.2, 2.5, and 10 m are individually fabricated by using a simple, inexpensive fountain-pen lithography technique. The wires show superior stretchable behavior under omnidirectional strain of ca. 120%. A gas sensor assembled with the PEDOT:PSS arched wires exhibits linear responses to the concentrations of different vapor gases, such as ethanol, acetone, and methanol, at room temperature. The signal-to-noise ratio in the sensing response, which influences the detection limit, is enhanced by increasing the number of wires with a larger surface-to-volume ratio in parallel to increasing the signal level and diminishing the baseline noise in the wire transducers.
+chemiresistive gas sensors; fountain-pen lithography (FPL); poly(3; 4-ethylenedioxythiophene) poly(styrenesulfonate) (PEDOT:PSS); wire transducers; 3D printing; SENSING PROPERTIES; ELECTRICAL-CONDUCTIVITY; THIN-FILM; POLYANILINE; VAPOR; COMPOSITES; MECHANISMS; ARRAYS
+5
+21
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1016/j.bjoms.2014.04.010
+How accurate are rapid prototyped (RP) final orthognathic surgical wafers? A pilot study
+Shqaidef, Abedalrahman; Ayoub, Ashraf F.; Khambay, Balvinder S.
+Khambay, BS (reprint author), Univ Hong Kong, Fac Dent, Hong Kong, Hong Kong, Peoples R China.
+Computer packages have been introduced to simulate the movements of the jaw in three dimensions to facilitate planning of treatment. After final 3-dimensional virtual planning, a rapid prototype wafer can be manufactured and used in theatre. Our aim was to assess the accuracy of rapid prototyping of virtual wafers derived from laser scanned dental models using CAD/CAM software. Upper and lower plaster models from 10 orthognathic patients, the articulated models, and the conventional wafers were scanned. The virtual wafers were made from CAD/CAM software, and printed on a stereolithographic printer. We also scanned the articulated models with rapid prototype wafers in place. The validity of the final rapid prototype wafer was measured by the accuracy with which upper and lower models related to one another. The absolute mean error of the rapid prototype wafer when aligned with the dental models was 0.94 (0.09) mm. The absolute distance of the 2 models articulated by conventional and rapid prototype wafers ranged from 0.04-1.73 mm. The rapid prototype wafers were able to orientate the upper and lower dental models with an absolute mean error of 0.94 (0.09) mm, but it ranged from 0.04-1.73 mm. (C) 2014 The British Association of Oral and Maxillofacial Surgeons. Published by Elsevier Ltd. All rights reserved.
+Orthognathic surgery; Wafer; Splint; Rapid prototype; CAD/CAM; MODEL SURGERY; FACE-BOW; ARTICULATOR
+1
+6
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.bjoms.2014.01.023
+Orthognathic Y-splint: a CAD/CAM-engineered maxillary repositioning wafer assembly
+Kang, Sang-Hoon; Kim, Moon-Key; Kim, Bong Chul; Lee, Sang-Hwy
+Lee, SH (reprint author), Yonsei Univ, Coll Dent, Dept Oral & Maxillofacial Surg, 50 Yonsei Ro, Seoul 120752, South Korea.
+
+orthognathic; wafer; CAD/CAM; 3D printing
+3
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1021/cg500504u
+Toward Single-Crystal Hybrid-Carbon Electronics: Impact of Graphene Substrate Defect Density on Copper Phthalocyanine Film Growth
+McAfee, Terry; Gann, Eliot; Guan, Tianshuai; Stuart, Sean C.; Rowe, Jack; Dougherty, Daniel B.; Ade, Harald
+Ade, H (reprint author), N Carolina State Univ, Dept Phys, Raleigh, NC 27695 USA.
+Graphene has long been recognized as a potential replacement for indium tin oxide as a transparent conducting substrate that may not only be cheaper to manufacture but also may provide mechanical flexibility and templating for preferential organic film growth. Here, we report the discovery that the thin film growth mode and crystal structure of copper phthalocyanine (CuPc), a prototype organic semiconductor, is extremely sensitive to even atomic-scale defects (e.g., steps) on the graphene surface and that high quality films can be grown with a well-defined crystal orientation that should be favorable for optimized solar cell applications. The initial growth involves flat-lying copper phthalocyanine molecules in a triclinic brickstone crystal with (01 (2) over bar) orientation. Thicker films on pristine graphite, as well as thin films on lower quality graphene, show an orientational transition to the flat-lying (11 (2) over bar)-oriented brickstone, which nucleates near film defects and grows in more compact 3D islands. The thickness dependent transition between these two flat-lying crystal orientations is sensitive to substrate defect density since this determines the extent to which initial island elongation along the substrate can alleviate strain in the film. The sensitivity of copper phthalocyanine film morphology demonstrates the extreme importance of graphene substrate quality to controlling organic film growth. The high crystallinity and optimal molecular orientation achieved here implies a new driving force for high performance organic optoelectronics based on substrate-controlled crystal engineering.
+; TRANSPARENT ELECTRODES; MOLECULAR-ORIENTATION; THIN-FILMS; GRAPHITE; POLYMER; HETEROJUNCTION; MOBILITY; ISLANDS; SURFACE
+14
+52
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1109/TUFFC.2014.3070
+Rapid Prototyping Fabrication of Focused Ultrasound Transducers
+Kim, Yohan; Maxwell, Adam D.; Hall, Timothy L.; Xu, Zhen; Lin, Kuang-Wei; Cain, Charles A.
+Kim, Y (reprint author), Univ Michigan, Dept Biomed Engn, Ann Arbor, MI 48109 USA.
+Rapid prototyping (RP) fabrication techniques are currently widely used in diverse industrial and medical fields, providing substantial advantages in development time and costs in comparison to more traditional manufacturing processes. This paper presents a new method for the fabrication of high-intensity focused ultrasound transducers using RP technology. The construction of a large-aperture hemispherical transducer designed by computer software is described to demonstrate the process. The transducer was conceived as a modular design consisting of 32 individually focused 50.8-mm (2-in) PZT-8 element modules distributed in a 300-mm hemispherical scaffold with a geometric focus of 150 mm. The entire structure of the array, including the module housings and the hemispherical scaffold was fabricated through a stereolithography (SLA) system using a proprietary photopolymer. The PZT elements were bonded to the lenses through a quarter-wave tungsten-epoxy matching layer developed in-house specifically for this purpose. Modules constructed in this manner displayed a high degree of electroacoustic consistency, with an electrical impedance mean and standard deviation of 109 +/- 10.2 Omega for the 32 elements. Time-of-flight measurements for individually pulsed modules mounted on the hemispherical scaffold showed that all pulses arrived at the focus within a 350 ns range, indicating a good degree of element alignment. Pressure profile measurements of the fully assembled transducer also showed close agreement with simulated results. The measured focal beam FWHM dimensions were 1.9 x 4.0 mm (1.9 x 3.9 mm simulated) in the transversal and axial directions respectively. Total material expenses associated with the construction of the transducer were approximately 5000 USD (as of 2011). The versatility and lower fabrication costs afforded by RP methods may be beneficial in the development of complex transducer geometries suitable for a variety of research and clinical applications.
+; TISSUE; SURGERY; HISTOTRIPSY; CAVITATION; THERAPY; STEREOLITHOGRAPHY; PROSTATE; ABLATION; DESIGN; SYSTEM
+4
+27
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s11431-014-5583-4
+Liquid phase 3D printing for quickly manufacturing conductive metal objects with low melting point alloy ink
+Wang Lei; Liu Jing
+Liu, J (reprint author), Chinese Acad Sci, Beijing Key Lab CryoBiomed Engn, Tech Inst Phys & Chem, Beijing 100190, Peoples R China.
+Conventional 3D metal printings are generally time-consuming as well as lacking of high performance printable inks. From an alternative way, here we proposed the method of liquid phase 3D printing for quickly making conductive metal objects. Through introducing metal alloys whose melting point is slightly above room temperature as printing inks, several representative structures spanning from one, two and three dimension to more complex patterns were demonstrated to be quickly fabricated. Compared with the air-cooling in a conventional 3D printing, the liquid-phase-manufacturing offers a much higher cooling rate and thus significantly improves the speed in fabricating the target metal objects. This unique strategy also efficiently prevents the liquid metal inks from air oxidation, which is hard to avoid otherwise in an ordinary 3D printing. The key physical factors (such as properties of the cooling fluid, air pressure within the syringe barrel and needle diameter, types and properties of the printing ink) and several interesting intermediate fluids interaction phenomena between liquid metal and conventional cooling fluids such as water or ethanol, which evidently affecting the printing quality, were disclosed. In addition, a basic route to make future liquid phase 3D printer incorporated with both syringe pump and needle arrays was also suggested. The liquid phase 3D printing, which owns potential values not available in a conventional method, opens an efficient way for quickly making conductive metal objects in the coming time.
+liquid phase 3D printing; liquid metal printer; rapid prototyping; low melting point metal; liquid cooling; oxidation; DROP FORMATION; ELECTRONICS; FABRICATION; COMPONENTS
+26
+91
+10
+0
+0
+4
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+10.1016/j.ultrasmedbio.2014.03.006
+A CLOSED-FORM DIFFERENTIAL FORMULATION FOR ULTRASOUND SPATIAL CALIBRATION: MULTI-WEDGE PHANTOM
+Najafi, Mohammad; Afsham, Narges; Abolmaesumi, Purang; Rohling, Robert
+Rohling, R (reprint author), Univ British Columbia, Dept Elect & Comp Engn, 3059-2332 Main Mall, Vancouver, BC V6T 1Z4, Canada.
+Calibration is essential in freehand 3-D ultrasound to find the spatial transformation from the image coordinates to the sensor coordinate system. Calibration accuracy has significant impact on image-guided interventions. We introduce a new mathematical framework that uses differential measurements to achieve high calibration accuracy. Accurate measurements of axial differences in ultrasound images of a multi-wedge phantom are used to calculate the calibration matrix with a closed-form solution. The multi-wedge phantom has been designed based on the proposed differential framework and can be mass-produced inexpensively using a 3-D printer. The proposed method enables easy, fast and highly accurate ultrasound calibration, which is essential for most current ultrasound-guided applications and also widens the range of new applications. The precision of the method using only a single image of the phantom is comparable to that of the standard N-wire method using 50 images. The method can also directly take advantage of the fine sampling rate of radiofrequency ultrasound data to achieve very high calibration accuracy. With 100 radiofrequency ultrasound images, the method achieves a point reconstruction error of 0.09 +/- 0.39 mm. (E-mail: rohling@ece.ubc.ca) (C) 2014 World Federation for Ultrasound in Medicine & Biology.
+Ultrasound; Calibration; Closed-form; Multi-wedge; Differential; FREEHAND 3-D ULTRASOUND; 3D ULTRASOUND; PROBE CALIBRATION; TRACKING; SYSTEM
+3
+6
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s00339-013-8191-4
+Atomized spraying of liquid metal droplets on desired substrate surfaces as a generalized way for ubiquitous printed electronics
+Zhang, Qin; Gao, Yunxia; Liu, Jing
+Liu, J (reprint author), Chinese Acad Sci, Beijing Key Lab CryoBiomed Engn, Tech Inst Phys & Chem, Beijing 100190, Peoples R China.
+A direct electronics printing technique through atomized spraying for patterning room-temperature liquid metal droplets on desired substrate surfaces is proposed and experimentally demonstrated for the first time. This method is highly flexible and capable of fabricating electronic components on various target objects, with either flat or rough surfaces, made of different materials, or having different orientations from 2D to 3D geometrical configurations. With a pre-designed mask, the liquid metal ink can be directly deposited on the substrate to form various specific patterns which lead to the rapid prototyping of electronic devices. Further, extended printing strategies were also suggested to illustrate the adaptability of the method. For example, it can be used for making transparent conductive film with an optical transmittance of 47 % and a sheet resistance of 5.167 Omega/square due to natural porous structure. Different from the former direct writing technology where large surface tension and poor adhesion between the liquid metal and the substrate often impede the flexible printing process, the liquid metal here no longer needs to be pre-oxidized to guarantee its applicability on target substrates. One critical mechanism was that the atomized liquid metal microdroplets can be quickly oxidized in the air due to its large specific surface area, resulting in a significant increase of the adhesion capacity and thus firm deposition of the ink to the substrate. This study paved a generalized way for pervasively and directly printing electronics on various substrates which are expected to be significant in a wide spectrum of electrical engineering areas.
+; FLEXIBLE DISPLAY; LOW-COST; X-RAY; ALLOY; INDIUM; BATTERIES
+19
+63
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s12195-014-0340-0
+Generation of Multi-scale Vascular Network System Within 3D Hydrogel Using 3D Bio-printing Technology
+Lee, Vivian K.; Lanzi, Alison M.; Ngo, Haygan; Yoo, Seung-Schik; Vincent, Peter A.; Dai, Guohao
+Dai, GH (reprint author), Rensselaer Polytech Inst, Dept Biomed Engn, 110 8th St, Troy, NY 12180 USA.
+Although 3D bio-printing technology has great potential in creating complex tissues with multiple cell types and matrices, maintaining the viability of thick tissue construct for tissue growth and maturation after the printing is challenging due to lack of vascular perfusion. Perfused capillary network can be a solution for this issue; however, construction of a complete capillary network at single cell level using the existing technology is nearly impossible due to limitations in time and spatial resolution of the dispensing technology. To address the vascularization issue, we developed a 3D printing method to construct larger (lumen size of similar to 1 mm) fluidic vascular channels and to create adjacent capillary network through a natural maturation process, thus providing a feasible solution to connect the capillary network to the large perfused vascular channels. In our model, microvascular bed was formed in between two large fluidic vessels, and then connected to the vessels by angiogenic sprouting from the large channel edge. Our bio-printing technology has a great potential in engineering vascularized thick tissues and vascular niches, as the vascular channels are simultaneously created while cells and matrices are printed around the channels in desired 3D patterns.
+3D bio-printing; Capillary; Vasculogenesis; Angiogenesis; Vascular lumen; Hydrogel; 3-DIMENSIONAL FREEFORM FABRICATION; ENDOTHELIAL LUMEN FORMATION; TUBES IN-VITRO; MOLECULAR-MECHANISMS; BLOOD-VESSELS; HUMAN SKIN; ANGIOGENESIS; CELLS; COLLAGEN; TISSUES
+39
+149
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+10.1007/s00170-014-5829-0
+The prediction of profile deviations when Creep Feed grinding complex geometrical features by use of neural networks and genetic programming with real-time simulation
+Griffin, James
+Griffin, J (reprint author), Univ Chile, Piso 4,Beauchef 850, Santiago, Chile.
+The capability to generate complex geometry features at tight tolerances and fine surface roughness is a key element in implementation of Creep Feed grinding process in specialist applications such as the aerospace manufacturing environment. Based on the analysis of 3D cutting forces, this paper proposes a novel method of predicting the profile deviations of tight geometrical features generated using Creep Feed grinding. In this application, there are several grinding passes made at varying depths providing an incremental geometrical change with the last cut generating the final complex feature. With repeatable results from coordinate measurements, both the radial and tangential forces can be gauged versus the accuracy of the ground features. The results of the tangential force were found more sensitive to the deviation of actual cut depth from the theoretical one. However, to make a more robust prediction on the profile deviation, its values were considered as a function of both force components. In addition, the power signals were obtained as these signals are also proportional to force and deviation measurements. Genetic programming (GP), an evolutionary programming technique, has been used to compute the prediction rules of part profile deviations based on the extracted radial and tangential force and correlated with the initial "gauging" methodology. It was found that using this technique, complex rules can be achieved and used online to dynamically control the geometrical accuracy of the ground features. The GP complex rules are based on the correlation between the measured forces and recorded deviation of the theoretical profile. The mathematical rules are generated from Darwinian evolutionary strategy which provides the mapping between different output classes. GP works from crossover recombination of different rules, and the best individual is evaluated in terms of the given best fitness value so far which closes on an optimal solution. Once the best rule has been generated, this can be further used independently or in combination with other close-to-best rules to control the evolution of output measures of machining processes. The best GP terminal sets will be realised in rule-based embedded coded systems which will finally be implemented into a real-time Simulink simulation. This realisation gives a view of how such a control regime can be utilised within an industrial capacity. Neural networks were also used for GP rule verification.
+Grinding; Cutting forces; Spindle power; Profile deviations; Genetic programming; Neural networks; Creep Feed grinding simulation; SURFACE-ROUGHNESS; SAR IMAGERY; TOOL WEAR; STRATEGY
+3
+24
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s00170-014-5954-9
+Density of additively-manufactured, 316L SS parts using laser powder-bed fusion at powers up to 400 W
+Kamath, Chandrika; El-dasher, Bassem; Gallegos, Gilbert F.; King, Wayne E.; Sisto, Aaron
+Kamath, C (reprint author), Lawrence Livermore Natl Lab, Livermore, CA 94551 USA.
+Selective laser melting is a powder-based, additive-manufacturing process where a three-dimensional part is produced, layer by layer, by using a high-energy laser beam to fuse the metallic powder particles. A particular challenge in this process is the selection of appropriate process parameters that result in parts with desired properties. In this study, we describe an approach to selecting parameters for high-density (> 99 %) parts using 316L stainless steel. Though there has been significant success in achieving near-full density for 316L parts, this work has been limited to laser powers < 225 W. We discuss how we can exploit prior knowledge, design of computational experiments using a simple model of laser melting, and single-track experiments to determine the process parameters for use at laser powers up to 400 W. Our results show that, at higher power values, there is a large range of scan speeds over which the relative density remains > 99 %, with the density reducing rapidly at high speeds due to insufficient melting, and less rapidly at low speeds due to the effect of voids created as the process enters keyhole mode.
+316L stainless steel; Keyhole-mode laser melting; Additive manufacturing; Powder-bed fusion; Selective laser melting; Direct metal laser sintering; STAINLESS-STEEL; QUALITY
+14
+41
+10
+0
+0
+4
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10.1007/s00170-014-5689-7
+Realistic simulation of surface defects in five-axis milling using the measured geometry of the tool
+Lavernhe, Sylvain; Quinsat, Yann; Lartigue, Claire; Brown, Christopher
+Lavernhe, S (reprint author), Univ Paris 11, ENS Cachan, LURPA, 1161 Ave President Wilson, F-94235 Cachan, France.
+Managing macro- and micro-geometry of surfaces during manufacturing processes is a key factor for their following uses. Indeed, micro-geometry and surface topography are directly linked to the performances of functions (contact, friction, lubrication, etc.) by texture parameters to ensure the desired local geometry. Common models for simulation of surface topography are based on ideal geometry of the machining tool and cannot represent surface defects. The actual prediction and simulation of defects are one step forward in a competitive context. In this paper, the realistic model proposed aims to simulate and predict as finely as possible local defects of machined surfaces taking into account the actual edge geometry of the cutting tool. The combined use of the machining kinematics and of the measured geometry of the cutting edges leads to the representation of the geometrical envelope of the surface using a Zbuffer technique. Simulation assessment is carried out by the analysis of 3D surface topography parameters such as surface complexity and relative area and by a comparison of simulation results to an experimental case of study.
+Surface topography; Defects; Realistic modeling and simulation; Surface analysis; Surface machining; FATIGUE LIFE; TOPOGRAPHY; PREDICTION; ROUGHNESS
+6
+21
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s00170-014-5985-2
+3D thermomechanically coupled FEM analysis of large disk rolling process and trial production
+Li, Qinghua; Ma, Zhanchao; Liu, Taiying; Li, Fuguo; Wei, Zhijian; Su, Chunmin
+Li, QH (reprint author), Northwestern Polytech Univ, Sch Mat Sci & Engn, Xian 710072, Peoples R China.
+Recently, rolling technique used to manufacture rings with various dimensions, shapes, and materials is innovated to a revolutionary technique for the fabrication of large disks. In this paper, in order to study the forming capability of this novel method, its principle was introduced, and the 3D thermomechanically coupled FE model was established using the dynamic explicit code ABAQUS/Explicit. Considering the adaptive treatment of boundary conditions, the user subroutines of ABAQUS were explored based on the movement law of the guide rolls and profiled axial rolls, and contacts between these rolls and the disk component. And the reliability of the FE model was verified theoretically and experimentally. Furthermore, the extending rule of plastic deformation zone and the effect of feed speed on the size of both the outer and inner diameters were investigated. The main results show that (1) the smallest equivalent plastic strain (PEEQ) occurs at the hub of the disk and the junction of the rim and the web, and the larger PEEQ appears on the outer surface of the rim and the web of disk. (2) Both the outer and inner diameters of the disk increase gradually at the beginning stage and more and more rapidly at a later stage. With the increase of the feed rate, the increase rate of both the outer diameter and inner diameter will decrease and the lateral spread rate will increase. And trial production of the large disk based on the analysis had been carried out successfully on the revamped Wagner RAW500/400 radial-axial ring rolling mill.
+Large disk; Rolling; FEM(finite element method) simulation; Adaptive movement control; Feed speed effects; LARGE RINGS; SIMULATION; BEHAVIORS
+5
+26
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1177/1045389X13510787
+An experimental study on the effect of magneto-rheological finishing on diamond turned surfaces
+Khatri, Neha; Tewary, Suman; Mishra, Vinod; Sarepaka, RamaGopal V.
+Khatri, N (reprint author), Cent Sci Instruments Org, Opt Devices & Syst Div, Sect 30-C, Chandigarh 160030, India.
+Magneto-rheological materials are a class of smart materials whose rheological properties can be rapidly varied by applying a magnetic field. Magneto-rheological finishing utilizes magneto-rheological fluid, which consists of magnetic particles, non-magnetic abrasives and some additives in water or other carrier to polish the materials. Single-point diamond turning is able to remove hundreds of microns of material and generate surface with micron accuracies. Residual turning marks are the most important factor limiting the performance in diamond turning process. Magneto-rheological finishing has inherent ability to improve micro-roughness, remove subsurface damage and reduce residual stresses induced during diamond turning process. Combining single-point diamond turning and magneto-rheological finishing creates a deterministic process for manufacturing highly finished surfaces. In this article, an attempt has been made to improve the finish of diamond turned surface with magneto-rheological finishing and to investigate the effects of parameters like current, spacing, wheel speed, feed rate and magnetic field on the final surface finish. Based on the parametric study, an optimum combination of process parameters is identified using analysis of variance. Various image processing techniques have been used for the comparison of the surface analysis of diamond turned surfaces and the magneto-rheological finished surfaces.
+Image processing; magneto-rheological finishing; single-point diamond turning; surface roughness; OPTICS; MRF
+1
+8
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.joms.2014.01.016
+Found in Space: Computer-Assisted Orthognathic Alignment of a Total Face Allograft in Six Degrees of Freedom
+Dorafshar, Amir H.; Brazio, Philip S.; Mundinger, Gerhard S.; Mohan, Raja; Brown, Emile N.; Rodriguez, Eduardo D.
+Dorafshar, AH (reprint author), Univ Maryland, Sch Med, Div Plast Reconstruct & Maxillofacial Surg, Dept Surg,R Adams Cowley Shock Trauma Ctr, 22 South Greene St,P1G01, Baltimore, MD 21201 USA.
+Purpose: Full facial osteomyocutaneous transplantation requires correct 3-dimensional (3D) alignment of donor osseous structures to a new cranial base with minimal reference points and 6 degrees of potential movement. We investigated whether computer-assisted design and manufacturing (CAD/CAM) could enable accurate placement of the facial skeleton.
+; OF-THE-ART; SURGICAL SIMULATION; AIDED-DESIGN; OCCLUSAL CANT; FRONTAL PLANE; DOUBLE JAW; SURGERY; TRANSPLANTATION; RELIABILITY Materials and Methods: A prospective single-cohort study of Le Fort III-based maxillary-mandibular segment allotransplantation was performed in 5 cadaver pairs and 1 clinical pair. The osteotomies were modeled using computed tomography (CT) data and 3D modeling software and then translated to the donor-recipient pairs using surgical navigation and osteotomy cutting guides. The predicted values were calculated about all rotational axes (pitch, yaw, and roll) and along all translational axes (vertical, horizontal, and anteroposterior) and used as the independent variable. The primary outcome variable of the actual postoperative CT values was compared for fidelity to the prediction using the intraclass correlation coefficient (ICC). The similarity to the donor versus recipient values was calculated as a secondary independent variable, and both predicted and actual measurements were compared with it as a percentage. Results: The postoperative fidelity to the plan was adequate to excellent (ICC 0.520 to 0.975) with the exception of lateral translation (2.94 +/- 1.31 mm predicted left vs 3.92 +/- 2.17 mm right actual displacement; ICC 0.243). The predicted and actual values were not consistently skewed toward the donor or recipient values. Conclusions: We have demonstrated a novel application of CAD/CAM that enables orthognathic alignment of a maxillary-mandibular segment to a new cranial base. Quantification of the alignment in all 6 degrees of freedom delivers precise control compared with the planned changes and allows postoperative quality control. (C) 2014 American Association of Oral and Maxillofacial Surgeons
+1
+8
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.joms.2014.02.013
+Patient-Specific Polyetheretherketone Facial Implants in a Computer-Aided Planning Workflow
+Guevara-Rojas, Godoberto; Figl, Michael; Schicho, Kurt; Seemann, Rudolf; Traxler, Hannes; Vacariu, Apostolos; Carbon, Claus-Christian; Ewers, Rolf; Watzinger, Franz
+Figl, M (reprint author), Med Univ Vienna, Ctr Phys & Biomed Engn, Waehringer Guertel 18-20, A-1090 Vienna, Austria.
+Purpose: In the present study, we report an innovative workflow using polyetheretherketone (PEEK) patient-specific implants for esthetic corrections in the facial region through onlay grafting. The planning includes implant design according to virtual osteotomy and generation of a subtraction volume. The implant design was refined by stepwise changing the implant geometry according to soft tissue simulations.
+; PEEK IMPLANT; RECONSTRUCTION; NAVIGATION; MODEL Materials and Methods: One patient was scanned using computed tomography. PEEK implants were interactively designed and manufactured using rapid prototyping techniques. Positioning intra-operatively was assisted by computer-aided navigation. Two months after surgery, a 3-dimensional surface model of the patient's face was generated using photogrammetry. Finally, the Hausdorff distance calculation was used to quantify the overall error, encompassing the failures in soft tissue simulation and implantation. Results: The implant positioning process during surgery was satisfactory. The simulated soft tissue surface and the photogrammetry scan of the patient showed a high correspondence, especially where the skin covered the implants. The mean total error (Hausdorff distance) was 0.81 +/- 1.00 mm (median 0.48, interquartile range 1.11). The spatial deviation remained less than 0.7 mm for the vast majority of points. Conclusions: The proposed workflow provides a complete computer-aided design, computer-aided manufacturing, and computer-aided surgery chain for implant design, allowing for soft tissue simulation, fabrication of patient-specific implants, and image-guided surgery to position the implants. Much of the surgical complexity resulting from osteotomies of the zygoma, chin, or mandibular angle might be transferred into the planning phase of patient-specific implants. (C) 2014 American Association of Oral and Maxillofacial Surgeons
+2
+18
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.jsurg.2014.03.001
+Use of 3-Dimensional Printing Technology and Silicone Modeling in Surgical Simulation: Development and Face Validation in Pediatric Laparoscopic Pyeloplasty
+Cheung, Coding L.; Looi, Thomas; Lendvay, Thomas S.; Drake, James M.; Farhat, Walid A.
+Farhat, WA (reprint author), Hosp Sick Children, Dept Surg, 555 Univ Ave, Toronto, ON M5G 1X8, Canada.
+OBJECTIVES: Pediatric laparoscopy poses unique training challenges owing to smaller workspaces, finer sutures used, and potentially more delicate tissues that require increased surgical dexterity when compared with adult analogs. We describe the development and face validation of a pediatric pyeloplasty simulator using a low-cost laparoscopic dry-laboratory model developed with 3-dimensional (3D) printing and silicone modeling.
+simulation; pyeloplasty; surgical training; laparoscopy; FORCE FEEDBACK; SURGERY; FUNDAMENTALS; EDUCATION; SKILLS DESIGN AND SETTING: The organs (the kidney, renal pelvis, and ureter) were created in a 3-step process where molds were created with 3D modeling software, printed with a Spectrum Z510 3D printer, and cast with Dragon Skin 30 silicone rubber. The model was secured in a laparoscopy box trainer. A pilot study was conducted at a Canadian Urological Association meeting. A total of 24 pediatric urology fellows and 3 experienced faculty members then assessed our skills module during a minimally invasive surgery training course. Participants had 60 minutes to perform a right-side pyeloplasty using laparoscopic tools and 5-0 VICRYL suture. Face validity was demonstrated on a 5-point Likert scale. PARTICIPANTS AND RESULTS: The dry-laboratory model consists of a kidney, a replaceable dilated renal pelvis and ureter with an obstructed ureteropelvic junction, and an overlying peritoneum with an inscribed fundamentals of laparoscopic surgery pattern-cutting exercise. During initial validation at the Canadian Urological Association, participants rated (out of 5) 4.75 +/- 0.29 for overall impression, 4.50 +/- 0.41 for realism, and 4.38 +/- 0.48 for handling. During the minimally invasive surgery course, 22 of 24 fellows and all the faculty members completed the scoring. Usability was rated 4 or 5 by 14 participants (overall, 3.6 +/- 1.22 by novices and 3.7 +/- 0.58 by experts), indicating that they would use the model in their own training and teaching. Esthetically, the model was rated 3.5 +/- 0.74 (novices) and 3.3 +/- 0.58 (experts). CONCLUSIONS: We developed a pediatric pyeloplasty simulator by applying a low-cost reusable model for laparoscopic training and skills acquisition. The model's usability, realism, and feel are good, it can be imaged under common modalities, and it shows promise as an educational tool. (C) 2014 Association of Program Directors in Surgery. Published by Elsevier Inc. All rights reserved.
+10
+49
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+10.1016/j.jmbbm.2014.05.002
+Numerical optimization of open-porous bone scaffold structures to match the elastic properties of human cortical bone
+Wieding, Jan; Wolf, Andreas; Bader, Rainer
+Wieding, J (reprint author), Univ Med Rostock, Dept Orthopaed, Biomech & Implant Technol Res Lab, Doberaner Str 142, D-189571805 Rostock, Germany.
+Treatment of large segmental bone defects, especially in load bearing areas, is a complex procedure in orthopedic surgery. The usage of additive manufacturing processes enables the creation of customized bone implants with arbitrary open-porous structure satisfying both the mechanical and the biological requirements for a sufficient bone ingrowth. Aim of the present numerical study was to optimize the geometrical parameters of open-porous titanium scaffolds to match the elastic properties of human cortical bone with respect to an adequate pore size. Three different scaffold designs (cubic, diagonal and pyramidal) were numerically investigated by using an optimization approach. Beam elements were used to create the lattice structures of the scaffolds. The design parameters strut diameter and pore size ranged from 0.2 to 1.5 mm and from 0 to 3.0 mm, respectively. In a first optimization step, the geometrical parameters were varied under uniaxial compression to obtain a structural modulus of 15 GPa (Young's modulus of cortical bone) and a pore size of 800 pm was aimed to enable cell ingrowth. Furthermore, the mechanical behavior of the optimized structures under bending and torsion was investigated. Results for bending modulus were between 9.0 and 14.5 GPa. In contrast, shear modulus was lowest for cubic and pyramidal design of approximately 1 GPa. Here, the diagonal design revealed a modulus of nearly 20 GPa. In a second step, large-sized bone scaffolds were created and placed in a biomechanical loading situation within a 30 mm segmental femoral defect, stabilized with an osteosynthesis plate and loaded with physiological muscle forces. Strut diameter for the 17 sections of each scaffold was optimized independently in order to match the biomechanical stability of intact bone. For each design, highest strut diameter was found at the dorsal/medial site of the defect and smallest strut diameter in the center. In conclusion, we demonstrated the possibility of providing optimized open-porous scaffolds for bone regeneration by considering both mechanical and biological aspects. Furthermore, the results revealed the need of the investigation and comparison of different load scenarios (compression, bending and torsion) as well as complex biomechanical loading for a profound characterization of different scaffold designs. The usage of a numerical optimization process was proven to be a feasible tool to reduce the amount of the required titanium material without influencing the biomechanical performance of the scaffold negatively. By using fully parameterized models, the optimization approach is adaptable to other scaffold designs and bone defect situations. (C) 2014 Elsevier Ltd. All rights reserved.
+Optimization; Open-porous scaffolds; Biomechanical loading; Femoral bone; Design variations; Strut thickness; Pore size; FINITE-ELEMENT; TITANIUM SCAFFOLDS; BIOMEDICAL APPLICATIONS; MECHANICAL-PROPERTIES; ARCHITECTURE DESIGN; STRUCTURE LIBRARY; PART 1; IMPLANTS; ALLOYS; FABRICATION
+12
+33
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s12540-014-5011-0
+Effects of the Selective Laser Melting Manufacturing Process on the Properties of CoCrMo Single Tracks
+Monroy, Karla P.; Delgado, Jordi; Sereno, Lidia; Ciurana, Joaquim; Hendrichs, Nicolas J.
+Ciurana, J (reprint author), Univ Girona, Dept Mech Engn & Insdustrial Construct, Girona 17003, Spain.
+Selective Laser Melting (SLM) is an additive technology that produces solid parts by selectively melting thin layers of metallic powder. SLM can produce significant differences in the final properties due to the melting-consolidation phenomena of the process, which can be controlled by the appropriate parameters. Therefore, the objective of this study was to create a link between the process conditions and the resulting properties by experimenting in an own-developed SLM machine using CoCrMo powder as material. The fabricated samples were characterized by density, hardness and microstructural properties. The experimental results proved the capability of the SLM technique to build high dense samples. The hardness results gave evidence of a superior outcome compared to conventional processes. Finally, it was found that grain size was defined by scanning speed. Based on the results, a better understanding of the processing principles given by the parameters was achieved and improved fabrication quality was promoted.
+sintering; powder processing; metals; crystal structure; grain growth; hardness test; MECHANICAL-BEHAVIOR; MICROSTRUCTURE; POWDER; WEAR; DENSIFICATION; PARTS
+12
+31
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.5437/08956308X5705256
+Rethinking Additive Manufacturing and Intellectual Property Protection
+Kurfess, Thomas; Cass, William J.
+Kurfess, T (reprint author), Georgia Tech, Woodruff Sch Mech Engn, Atlanta, GA 30332 USA.
+As 3D printers become more widely available, additive manufacturing will challenge the traditional forms of intellectual property (IP) protection in a significant way. This paper presents an integrated technical and legal discussion on IF concerns related to additive manufacturing. It discusses the key technology concepts driving the IP issues as well as giving an overview of how the current U.S. legal system addresses these concerns. The paper then provides insight into approaches that are being adopted to address some of the emerging issues as well as to streamline and update the IF protection capabilities of the international community. Finally, some recommendations are provided regarding potential policy directions that could be taken by the United States to protect IP while still enabling innovation.
+Additive manufacturing; Intellectual property; 3D Printing
+9
+42
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1088/0964-1726/23/9/094007
+Active origami by 4D printing
+Ge, Qi; Dunn, Conner K.; Qi, H. Jerry; Dunn, Martin L.
+Ge, Q (reprint author), Univ Colorado, Dept Mech Engn, Boulder, CO 80309 USA.
+Recent advances in three dimensional (3D) printing technology that allow multiple materials to be printed within each layer enable the creation of materials and components with precisely controlled heterogeneous microstructures. In addition, active materials, such as shape memory polymers, can be printed to create an active microstructure within a solid. These active materials can subsequently be activated in a controlled manner to change the shape or configuration of the solid in response to an environmental stimulus. This has been termed 4D printing, with the 4th dimension being the time-dependent shape change after the printing. In this paper, we advance the 4D printing concept to the design and fabrication of active origami, where a flat sheet automatically folds into a complicated 3D component. Here we print active composites with shape memory polymer fibers precisely printed in an elastomeric matrix and use them as intelligent active hinges to enable origami folding patterns. We develop a theoretical model to provide guidance in selecting design parameters such as fiber dimensions, hinge length, and programming strains and temperature. Using the model, we design and fabricate several active origami components that assemble from flat polymer sheets, including a box, a pyramid, and two origami airplanes. In addition, we directly print a 3D box with active composite hinges and program it to assume a temporary flat shape that subsequently recovers to the 3D box shape on demand.
+origami; 4D printing; shape memory polymers; SHAPE-MEMORY POLYMERS; SELF-ORGANIZED ORIGAMI; SHORT-FIBER COMPOSITES; DEFORMATION; RELAXATION; MICROSTRUCTURES; TEMPERATURE; DEPENDENCE; BEHAVIOR; GLASSES
+54
+156
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/0964-1726/23/9/095044
+Electric poling-assisted additive manufacturing process for PVDF polymer-based piezoelectric device applications
+Lee, ChaBum; Tarbutton, Joshua A.
+Lee, C (reprint author), Univ S Carolina, Dept Mech Engn, Columbia, SC 29208 USA.
+This paper presents a new additive manufacturing (AM) process to directly and continuously print piezoelectric devices from polyvinylidene fluoride (PVDF) polymeric filament rods under a strong electric field. This process, called 'electric poling-assisted additive manufacturing or EPAM, combines AM and electric poling processes and is able to fabricate free-form shape piezoelectric devices continuously. In this process, the PVDF polymer dipoles remain well-aligned and uniform over a large area in a single design, production and fabrication step. During EPAM process, molten PVDF polymer is simultaneously mechanically stresses in-situ by the leading nozzle and electrically poled by applying high electric field under high temperature. The EPAM system was constructed to directly print piezoelectric structures from PVDF polymeric filament while applying high electric field between nozzle tip and printing bed in AM machine. Piezoelectric devices were successfully fabricated using the EPAM process. The crystalline phase transitions that occurred from the process were identified by using the Fourier transform infrared spectroscope. The results indicate that devices printed under a strong electric field become piezoelectric during the EPAM process and that stronger electric fields result in greater piezoelectricity as marked by the electrical response and the formation of sharper peaks at the polar beta crystalline wavenumber of the PVDF polymer. Performing this process in the absence of an electric field does not result in dipole alignment of PVDF polymer. The EPAM process is expected to lead to the widespread use of AM to fabricate a variety of piezoelectric PVDF polymer-based devices for sensing, actuation and energy harvesting applications with simple, low cost, single processing and fabrication step.
+additive manufacturing; electric poling; polyvinylidene fluoride (PVDF); 3D printing; polymer processing; VINYLIDENE FLUORIDE; NANOGENERATOR; SENSORS; ENERGY
+16
+66
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1088/0964-1726/23/9/095039
+Using a magnetite/thermoplastic composite in 3D printing of direct replacements for commercially available flow sensors
+Leigh, S. J.; Purssell, C. P.; Billson, D. R.; Hutchins, D. A.
+Leigh, SJ (reprint author), Univ Warwick, Sch Engn, Coventry CV4 7AL, W Midlands, England.
+Flow sensing is an essential technique required for a wide range of application environments ranging from liquid dispensing to utility monitoring. A number of different methodologies and deployment strategies have been devised to cover the diverse range of potential application areas. The ability to easily create new bespoke sensors for new applications is therefore of natural interest. Fused deposition modelling is a 3D printing technology based upon the fabrication of 3D structures in a layer-by-layer fashion using extruded strands of molten thermoplastic. The technology was developed in the late 1980s but has only recently come to more wide-scale attention outside of specialist applications and rapid prototyping due to the advent of low-cost 3D printing platforms such as the RepRap. Due to the relatively low-cost of the printers and feedstock materials, these printers are ideal candidates for wide-scale installation as localized manufacturing platforms to quickly produce replacement parts when components fail. One of the current limitations with the technology is the availability of functional printing materials to facilitate production of complex functional 3D objects and devices beyond mere concept prototypes. This paper presents the formulation of a simple magnetite nanoparticle-loaded thermoplastic composite and its incorporation into a 3D printed flow-sensor in order to mimic the function of a commercially available flow-sensing device. Using the multi-material printing capability of the 3D printer allows a much smaller amount of functional material to be used in comparison to the commercial flow sensor by only placing the material where it is specifically required. Analysis of the printed sensor also revealed a much more linear response to increasing flow rate of water showing that 3D printed devices have the potential to at least perform as well as a conventionally produced sensor.
+3D printing; additive manufacturing; composite; sensor; flow; STEREOLITHOGRAPHY; TECHNOLOGIES
+17
+78
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1088/0964-1726/23/9/094005
+Self-folding miniature elastic electric devices
+Miyashita, Shuhei; Meeker, Laura; Tolley, Michael T.; Wood, Robert J.; Rus, Daniela
+Miyashita, S (reprint author), MIT, Comp Sci & Artificial Intelligence Lab, Cambridge, MA 02139 USA.
+Printing functional materials represents a considerable impact on the access to manufacturing technology. In this paper we present a methodology and validation of print-and-self-fold miniature electric devices. Polyvinyl chloride laminated sheets based on metalized polyester film show reliable self-folding processes under a heat application, and it configures 3D electric devices. We exemplify this technique by fabricating fundamental electric devices, namely a resistor, capacitor, and inductor. Namely, we show the development of a self-folded stretchable resistor, variable resistor, capacitive strain sensor, and an actuation mechanism consisting of a folded contractible solenoid coil. Because of their pre-defined kinematic design, these devices feature elasticity, making them suitable as sensors and actuators in flexible circuits. Finally, an RLC circuit obtained from the integration of developed devices is demonstrated, in which the coil based actuator is controlled by reading a capacitive strain sensor.
+self-folding electric device; self-folding resistor; self-folding capacitive strain sensor; compressible origami coil actuator; global heating
+10
+39
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.actamat.2014.05.037
+Processing window and evaporation phenomena for Ti-6Al-4V produced by selective electron beam melting
+Juechter, V.; Scharowsky, T.; Singer, R. F.; Koerner, C.
+Juechter, V (reprint author), Univ Erlangen Nurnberg, Chair Met Sci & Technol, D-91054 Erlangen, Germany.
+Additive manufacturing by selective electron beam melting is a promising way to fabricate complex Ti-6Al-4V components. Sound parts can be realized by applying quite different processing strategies, which have an influence not only on processing time but also on the microstructure and the alloy composition. In this work, the processing window for Ti-6Al-4V is determined for a wide range of scanning speeds and line energies. The influence of the energy input on the resulting heat-affected zone and alloy composition is discussed. (C) 2014 Acta Materialia Inc. Published by Elsevier Ltd.
+Selective electron beam melting; Ti-6Al-4V; Processing window; Heat affected zone; Alloy composition; MECHANICAL-PROPERTIES; MICROSTRUCTURE; TITANIUM
+10
+37
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.ceramint.2014.04.037
+The potential use of cement-asbestos waste in the ceramic masses destined for sintered wall clay brick manufacture
+Kusiorowski, R.; Zaremba, T.; Piotrowski, J.
+Kusiorowski, R (reprint author), Silesian Tech Univ, Dept Inorgan Chem Analyt Chem & Electrochem, B Krzywoustego St 6, PL-44100 Gliwice, Poland.
+Asbestos fibers are considered to be carcinogenic and to cause cancer, thus elimination of asbestos-containing materials from the environment is necessary. Currently, asbestos materials are stored in special landfills designed for hazardous wastes. However, this procedure is not a final solution to the problem and an alternative might be thermal recycling. This paper reports the results of a study on using asbestos-cement slates as an additive to ceramic masses that are typical in the manufacture of sintered clinker wall bricks. Green compacts containing various amounts (0-10 wt%) of asbestos-cement wastes were sintered at temperatures of 1100-1200 degrees C. Subsequently, ceramic product properties such as water absorption, open porosity, apparent density, compressive strength and freeze resistance were determined. The preliminary results of the study indicate that asbestos-containing materials can be used as one of the raw materials in the manufacture of clinker ceramic material, and that the origin of the asbestos-cement used does not have a significant influence on the basic properties of sintered clinker wall bricks Main ceramic properties, such as water absorption, compressive strength and freeze resistance, comply with national standards and requirements for construction and road clinker ceramic. (C) 2014 Elsevier Ltd and Techna Group S.r.l. All rights reserved.
+Sintering; Clays; Traditional ceramics; Asbestos-cement utilization; THERMAL-DECOMPOSITION; CHRYSOTILE ASBESTOS; DOPED CHRYSOTILE; INERTIZATION; TEMPERATURE; PRODUCT; FIBERS
+7
+15
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.ceramint.2014.04.104
+Comparison study of fabrication of ceramic rotor using various manufacturing methods
+Huang, Mingyue; Zhang, Dan Qing; Liu, Zhong Hong; Yang, Jinglei; Duan, Fei; Chua, Chee Kai; Lim, Seng Chum; Yip, Mee Sin
+Yang, J (reprint author), Nanyang Technol Univ, Sch Aerosp & Mech Engn, Singapore 639798, Singapore.
+An alumina ceramic turbine rotor with both large volume (90 mm in diameter and 20 mm in height) and sub-millimeter geometry (0.42 mm at the blade tip with curvature) was successfully prepared by using various manufacturing approaches. Polyjetting and computer numerical control (CNC) machining were respectively adopted to fabricate an integral sacrificial polymeric mold and a separable aluminum mold for the tailored gelcasting process, whereas selective laser sintering (SLS) was used to directly fabricate the turbine rotor by laser sintering the alumina and epoxy powders followed by liquid phase sintering in furnace. A series of experimental studies on these three rotor-forming routes were performed throughout the process. For the green rotor, the alumina slurry preparation, specific drying strategy and microstructure of the green part were presented and compared. For the sintered rotor, comparisons in terms of surface roughness, microstructure, mechanical properties and blade contour deformation were conducted. Finally, the most suitable method to fabricate the complex-shaped alumina rotor with the best performances was suggested. (C) 2014 Elsevier Ltd and Ted= Group S.r.l. All rights reserved.
+Alumina turbine rotor; Gelcasting; Additive manufacturing; Polyjetting; CNC machining; ALUMINA; TECHNOLOGIES
+16
+51
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1039/c4ee01426j
+3D printed flow plates for the electrolysis of water: an economic and adaptable approach to device manufacture
+Chisholm, Greig; Kitson, Philip J.; Kirkaldy, Niall D.; Bloor, Leanne G.; Cronin, Leroy
+Chisholm, G (reprint author), Univ Glasgow, Sch Chem, Glasgow G12 8QQ, Lanark, Scotland.
+The electrolysis of water is considered a promising route to the production of hydrogen from renewable energy sources. Electrolysers based on proton exchange membranes (PEMs) have a number of advantages including high current density, high product gas purity and the ability to operate at high pressure. Despite these advantages the high cost of such devices is an impediment to their widespread deployment. A principal factor in this cost are the materials and machining of flow plates for distribution of the liquid reagents and gaseous products in the electrochemical cell. We demonstrate the production and operation of a PEM electrolyser constructed from silver coated 3D printed components fabricated from polypropylene. This approach allows construction of light weight, low cost electrolysers and the rapid prototyping of flow field design. Furthermore we provide data on the operation of this electrolyser wherein we show that performance is excellent for a first generation device in terms of overall efficiency, internal resistances and current-voltage response. This development opens the door to the fabrication of light weight and cheap electrolysers as well as related electrochemical devices such as flow batteries and fuel cells.
+; PEM FUEL-CELLS; CHEMICAL-SYNTHESIS; BIPOLAR PLATES; REACTIONWARE; MICROELECTRODES; PERFORMANCE; CHIP
+19
+84
+3
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10.1016/j.euromechsol.2014.04.006
+Analytical, numerical and experimental study of the transverse shear behavior of a 3D reinforced sandwich structure
+Laine, Cyril; Le Grognec, Philippe; Panier, Stephane; Binetruy, Christophe
+Le Grognec, P (reprint author), Mines Douai Polymers & Composites Technol & Mech, 941 Rue Charles Bourseul,CS 10838, F-59508 Douai, France.
+Sandwich structures are known to be very sensitive to transverse shear effects when submitted to out-of-plane loads. The use of a Mindlin-Reissner type equivalent plate model is then certainly the simplest way to take into account these transverse shear strains that strongly influence the global deflection in simple bending. Such a model requires the estimation of the transverse shear stiffness or of the so-called shear correction factor. In the case of a traditional sandwich (with homogeneous foam core), this shear correction factor is set to unity, so that the equivalent transverse shear modulus coincides with the shear modulus of the foam core, which is fatally insubstantial. In order to improve the through-thickness properties of sandwiches, which are governed by the core layer, use is made of thin-walled core materials or reinforcements. In these more complicated cases, the equivalent shear modulus of the core material (in a 3D framework) highly depends on the geometry of the reinforcements and may only be calculated numerically. Moreover, the use of this homogenized shear modulus for the heterogeneous core layer and of a shear correction factor of unity does not generally convey to the proper value of the transverse shear stiffness, due to the possible interactions between the reinforcements and the skins. This paper particularly deals with sandwich structures manufactured with polymeric foam core reinforced thanks to the Napco (R) technology (which is based on transverse needle punching) and is devoted to obtaining their transverse shear stiffness. Bearing in mind the remarks made earlier, a one-step homogenization procedure is employed, involving simultaneously the contribution of the reinforcements to the equivalent shear modulus of the reinforced foam core and the interactions between reinforcements and skins. An analytical (respectively numerical) solution is derived, considering a 2D (respectively 3D) unit cell and using the basic principle of energy equivalence. The transverse shear stiffnesses obtained by these two simplified methods are then compared to the one obtained by a finite element numerical computation on a whole beam-like structure for validation purposes, and finally confronted to the experimental values resulting from 3-point bending tests performed with various volume fractions of reinforcements. (C) 2014 Elsevier Masson SAS. All rights reserved.
+Transverse shear stiffness; Reinforced sandwich; Unit cell model; PLATES; PANELS; CORE; STIFFNESS; HOMOGENIZATION; MODEL; COLLAPSE; BEAMS
+3
+18
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1115/1.4027755
+Selective Laser Sintered Versus Carbon Fiber Passive-Dynamic Ankle-Foot Orthoses: A Comparison of Patient Walking Performance
+Harper, Nicole G.; Russell, Elizabeth M.; Wilken, Jason M.; Neptune, Richard R.
+Neptune, RR (reprint author), Univ Texas Austin, Dept Mech Engn, Austin, TX 78712 USA.
+Selective laser sintering (SLS) is a well-suited additive manufacturing technique for generating subject-specific passive-dynamic ankle-foot orthoses (PD-AFOs). However, the mechanical properties of SLS PD-AFOs may differ from those of commonly prescribed carbon fiber (CF) PD-AFOs. Therefore, the goal of this study was to determine if biomechanical measures during gait differ between CF and stiffness-matched SLS PD-AFOs. Subject-specific SLS PD-AFOs were manufactured for ten subjects with unilateral lower-limb impairments. Minimal differences in gait performance occurred when subjects used the SLS versus CF PD-AFOs. These results support the use of SLS PD-AFOs to study the effects of altering design characteristics on gait performance.
+; JOINT COORDINATE SYSTEM; GAIT ABNORMALITIES; NERVE PARALYSIS; MUSCLE-ACTIVITY; KINEMATIC DATA; DROP-FOOT; CHILDREN; HEMIPLEGIA; CONFIGURATIONS; CUSTOMIZATION
+5
+22
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1115/1.4027218
+On the Impact of Geometric Variability on Fan Aerodynamic Performance, Unsteady Blade Row Interaction, and Its Mechanical Characteristics
+Schnell, R.; Lengyel-Kampmann, T.; Nicke, E.
+Schnell, R (reprint author), German Aerosp Ctr eV DLR, Inst Prop Technol, D-51147 Cologne, Germany.
+The focus of the present study is to assess and quantify the uncertainty in predicting the steady and unsteady aerodynamic performance as well as the major mechanical characteristics of a contrarotating turbofan, primarily due to geometric variations stemming from the manufacturing process. The basis of this study is the optically scanned blisk of the first rotor, for which geometric variations from blade to blade are considered. In a first step, selected profile sections of the first rotor were evaluated aerodynamically by applying the 2D coupled Euler/boundary-layer solver MISES. Statistical properties of the relevant flow quantities were calculated firstly based on the results of the nine manufactured blades. In a second step, the geometric variations were decomposed into their corresponding eigenforms by means of principal component analysis (PCA). These modes were the basis for carrying out Monte Carlo (MC) simulations in order to analyze in detail the blade's aerodynamic response to the prescribed geometric variations. By means of 3D-computational fluid dynamics (CFD) simulations of the entire fan stage for all the nine scanned rotor 1 blade geometries, the variation of the overall stage performance parameters will be quantified. The impact of the instrumentation will be discussed, here partly doubling the standard deviation of the major performance indicators for the instrumented blades and also triggering a premature laminar/turbulent transition of the boundary layer. In terms of the unsteady blade row interaction, the standard deviation of the resulting blade pressure amplitude shall be discussed based on unsteady simulations, taking advantage of a novel harmonic balance approach. It will be shown that the major uncertainty in terms of the predicted blade pressure amplitude is in the aft part of the front rotor and results from upstream shock/blade interaction. Apart from the aerodynamic performance, an analysis of the mechanical properties in terms of Campbell characteristics and eigenfrequencies was carried out for each of the scanned blades of rotor 1, reflecting the frequency scattering of each eigenmode due to geometric variability.
+; FLOWS
+3
+8
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.apsusc.2014.05.086
+AFM imaging and fractal analysis of surface roughness of AIN epilayers on sapphire substrates
+Dallaeva, Dinara; Talu, Stefan; Stach, Sebastian; Skarvada, Pavel; Tomanek, Pavel; Grmela, Lubomir
+Dallaeva, D (reprint author), Brno Univ Technol, Fac Elect Engn & Commun, Dept Phys, Brno 61600, Czech Republic.
+The paper deals with AFM imaging and characterization of 3D surface morphology of aluminum nitride (AIN) epilayers on sapphire substrates prepared by magnetron sputtering. Due to the effect of temperature changes on epilayer's surface during the fabrication, a surface morphology is studied by combination of atomic force microscopy (AFM) and fractal analysis methods. Both methods are useful tools that may assist manufacturers in developing and fabricating AIN thin films with optimal surface characteristics. Furthermore, they provide different yet complementary information to that offered by traditional surface statistical parameters. This combination is used for the first time for measurement on AIN epilayers on sapphire substrates, and provides the overall 3D morphology of the sample surfaces (by AFM imaging), and reveals fractal characteristics in the surface morphology (fractal analysis). (C) 2014 Elsevier B.V. All rights reserved.
+Aluminum nitride; Epitaxy; Substrate; Surface roughness; Atomic force microscopy; Fractal analysis; THIN-FILM; MULTIFRACTAL ANALYSIS; ENGINEERING SURFACES; SPUTTER-DEPOSITION; MORPHOLOGY
+7
+25
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1007/s11661-014-2370-6
+Rationalization of Microstructure Heterogeneity in INCONEL 718 Builds Made by the Direct Laser Additive Manufacturing Process
+Tian, Yuan; Mcallister, Donald; Colijn, Hendrik; Mills, Michael; Farson, Dave; Nordin, Mark; Babu, Sudarsanam
+Babu, S (reprint author), Univ Tennessee, Dept Mech Aerosp & Biomed Engn, Knoxville, TN 37996 USA.
+Simulative builds, typical of the tip-repair procedure, with matching compositions were deposited on an INCONEL 718 substrate using the laser additive manufacturing process. In the as-processed condition, these builds exhibit spatial heterogeneity in microstructure. Electron backscattering diffraction analyses showed highly misoriented grains in the top region of the builds compared to those of the lower region. Hardness maps indicated a 30 pct hardness increase in build regions close to the substrate over those of the top regions. Detailed multiscale characterizations, through scanning electron microscopy, electron backscattered diffraction imaging, high-resolution transmission electron microscopy, and ChemiSTEM, also showed microstructure heterogeneities within the builds in different length scales including interdendritic and interprecipitate regions. These multiscale heterogeneities were correlated to primary solidification, remelting, and solid-state precipitation kinetics of gamma aEuro(3) induced by solute segregation, as well as multiple heating and cooling cycles induced by the laser additive manufacturing process.
+; STRAY GRAIN FORMATION; NI-BASE SUPERALLOYS; THERMOMECHANICAL ANALYSIS; SOLIDIFICATION CRACKING; PRECIPITATION; ALLOY; EVOLUTION; LIQUATION; DIAGRAM; GAMMA'
+9
+33
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.biomaterials.2014.05.083
+Creating perfused functional vascular channels using 3D bio-printing technology
+Lee, Vivian K.; Kim, Diana Y.; Ngo, Haygan; Lee, Young; Seo, Lan; Yoo, Seung-Schik; Vincent, Peter A.; Dai, Guohao
+Dai, GH (reprint author), Rensselaer Polytech Inst, CBIS, Room 3123,110 8th St, Troy, NY 12180 USA.
+We developed a methodology using 3D bio-printing technology to create a functional in vitro vascular channel with perfused open lumen using only cells and biological matrices. The fabricated vasculature has a tight, confluent endothelium lining, presenting barrier function for both plasma protein and high-molecular weight dextran molecule. The fluidic vascular channel is capable of supporting the viability of tissue up to 5 mm in distance at 5 million cells/mL density under the physiological flow condition. In static-cultured vascular channels, active angiogenic sprouting from the vessel surface was observed whereas physiological flow strongly suppressed this process. Gene expression analysis was reported in this study to show the potential of this vessel model in vascular biology research. The methods have great potential in vascularized tissue fabrication using 3D bio-printing technology as the vascular channel is simultaneously created while cells and matrix are printed around the channel in desired 3D patterns. It can also serve as a unique experimental tool for investigating fundamental mechanisms of vascular remodeling with extracellular matrix and maturation process under 3D flow condition. (C) 2014 Elsevier Ltd. All rights reserved.
+Vascular channels; 3D bio-printing; Perfused vascularized tissue; Hydrogel; 3-DIMENSIONAL FREEFORM FABRICATION; TUBES IN-VITRO; ENDOTHELIAL-CELLS; LUMEN FORMATION; GENE-EXPRESSION; SHEAR-STRESS; HUMAN SKIN; ANGIOGENESIS; HYDROGELS; NETWORKS
+41
+183
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+10.1016/j.compfluid.2014.04.036
+High-order temporal accuracy for 3D finite-element ALE flow simulations
+Hay, A.; Yu, K. R.; Etienne, S.; Garon, A.; Pelletier, D.
+Hay, A (reprint author), CP 6079,Succ Ctr Ville, Montreal, PQ H3C 3A7, Canada.
+Context: Many engineering problems require to solve PDE on deforming domains to account for the temporal evolution of the domain boundaries. Fluid-Structure Interaction problems and free-surface flows solved by a front-tracking approach are two such examples.
+Time integration; Moving grids; ALE; Three-dimensional; Finite-element; Navier-Stokes; GEOMETRIC CONSERVATION LAW; 2ND-ORDER TIME-ACCURATE; DYNAMIC MESHES; MOVING GRIDS; COMPUTATIONS; SCHEMES; STABILITY; SYSTEMS Objective: In this paper, we address the numerical solution of the three-dimensional Navier-Stokes equations on deforming domains using the finite-element (FE) method and an Arbitrary Lagrangian Eulerian (ALE) formulation. Method: The proposed formulation incorporates the ALE mapping into the finite-element method in a natural and straightforward manner. It allows the use of any time integrator that can be expressed as a finite-difference in time and maintains the integrators fixed grid convergence rate on ALE deforming grids. Hence, popular time integrators (implicit backward Euler, Gear, BDF, Runge-Kutta, etc.) can be applied directly to moving grid simulations without necessitating any modification or adjustment to the code. Results: Using a manufactured solution, we present thorough time stepsize refinement studies. Results are reported for two families of time-stepping procedures: the implicit Backward Differentiation Formulas (multi-step methods of order 1-5) and the Implicit (Radau IIA) Runge-Kutta methods (one-step methods of order 1,3 and 5). Conclusion: The proposed FE/ALE formulation preserves the fixed-grid orders of accuracy of time-stepping procedures on 3D moving grids. Hence, three-dimensional FE/ALE simulations can be performed with highly accurate time integrators. (C) 2014 Elsevier Ltd. All rights reserved.
+1
+7
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1002/jbm.a.34970
+Surface-modified functionalized polycaprolactone scaffolds for bone repair: In vitro and in vivo experiments
+Jensen, Jonas; Rolfing, Jan Hendrik Duedal; Le, Dang Quang Svend; Kristiansen, Asger Albaek; Nygaard, Jens Vinge; Hokland, Lea Bjerre; Bendtsen, Michael; Kassem, Moustapha; Lysdahl, Helle; Bunger, Cody Eric
+Jensen, J (reprint author), Aarhus Univ Hosp, Orthopaed Res Lab, DK-8000 Aarhus, Denmark.
+A porcine calvaria defect study was carried out to investigate the bone repair potential of three-dimensional (3D)-printed poly-epsilon-caprolactone (PCL) scaffolds embedded with nanoporous PCL. A microscopic grid network was created by rapid prototyping making a 3D-fused deposition model (FDM-PCL). Afterward, the FDM-PCL scaffolds were infused with a mixture of PCL, water, and 1,4-dioxane and underwent a thermal-induced phase separation (TIPS) followed by lyophilization. The TIPS process lead to a nanoporous structure shielded by the printed microstructure (NSP-PCL). Sixteen Landrace pigs were divided into two groups with 8 and 12 weeks follow-up, respectively. A total of six nonpenetrating holes were drilled in the calvaria of each animal. The size of the cylindrical defects was h 10 mm and empty set 10 mm. The defects were distributed randomly using following groups: (a) NSP-PCL scaffold, (b) FDM-PCL scaffold, (c) autograft, (d) empty defect, (a1) NSP-PCL scaffold + autologous mononuclear cells, and (a2) NSP-PCL scaffold + bone morphogenetic protein 2. Bone volume to total volume was analyzed using microcomputed tomography (mu CT) and histomorphometry. The mCT and histological data showed significantly less bone formation in the NSP-PCL scaffolds in all three variations after both 8 and 12 weeks compared to all other groups. The positive autograft control had significantly higher new bone formation compared to all other groups except the FDM-PCL when analyzed using histomorphometry. The NSP-PCL scaffolds were heavily infiltrated with foreign body giant cells suggesting an inflammatory response and perhaps active resorption of the scaffold material. The unmodified FDM-PCL scaffold showed good osteoconductivity and osseointegration after both 8 and 12 weeks. (C) 2013 Wiley Periodicals, Inc.
+poly-epsilon-caprolactone; biodegradation; scaffold; bone tissue engineering; foreign body giant cell; CORALLINE HYDROXYAPATITE SCAFFOLDS; BMP-INDUCED OSTEOGENESIS; COMPOSITE SCAFFOLDS; MORPHOGENETIC PROTEIN-2; POLYMER DEGRADATION; STROMAL CELLS; PORE-SIZE; TISSUE; DIFFERENTIATION; EXPRESSION
+16
+84
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/.physb.2014.04.022
+Influence of lanthanum on the optomagnetic properties of zinc ferrite prepared by combustion method
+Tholkappiyan, R.; Vishista, K.
+Tholkappiyan, R (reprint author), Anna Univ, Dept Phys, Sardar Patel Rd, Madras 600025, Tamil Nadu, India.
+Pure and lanthanum doped zinc ferrite nanoparticles were synthesized by a combustion method using glycine as fuel. The mechanism of formation of these nanoferrites is discussed briefly. The prepared nanoparticles characterized using powder X-ray diffraction analysis (XRD) revealed the formation of cubic spinel phase with high crystallinity. Average crystallite size, X-ray density and bulk density were found to decrease with an increase in La3+ concentration. The chemical elements and states on the surface of these ferrites were determined using X-ray photoelectron spectroscopy (XPS). The detailed core level spectra of the photoelectron peaks of Zn 2p, Fe 2p, La 3d and O 1s were analyzed. The magnetic behavior of these nanoparticles was studied using a vibrating sample magnetometer (VSM) and corresponding changes in the saturation magnetization (Ms), coercivity (Hc) and remanent magnetization (Mr) were analyzed. The optical behavior of these ferrite nanoparticles was characterized by UV-Diffuse reflectance studies (UV-DRS). From the UV-DRS studies, the optical band gap was found to be in the range of 1.87-1.97 eV. The combustion method significantly produces large amount of products within a short time Therefore, this method is potentially suitable for manufacturing industries for preparing the magnetic nanoparticles. (C) 2014 Elsevier B.V. All rights reserved.
+Ferrite nanoparticles; Combustion process; X-ray photoelectron spectroscopy; Oxidation states; Magnetic properties; Optical properties; NICKEL FERRITE; VISIBLE-LIGHT; HYDROGEN-PRODUCTION; MAGNETIC-PROPERTIES; ROOM-TEMPERATURE; X-RAY; NANOPARTICLES; ZNFE2O4; IRON; H2S
+6
+26
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.asoc.2014.04.034
+Multi-response non-parametric profiling using Taguchi's qualimetric engineering and neurocomputing methods: Screening a foaming process in a solar collector assembly
+Besseris, George J.
+Besseris, GJ (reprint author), TEI Piraeus, Adv Ind & Mfg Syst Program, Dept Mech Engn, Egaleo, Greece.
+Taguchi's data programming techniques in synergy with data analysis tactics based on artificial neural networks have been fruitful in illuminating intricate manufacturing phenomena. We present a non-parametric approach to treat multi-response multi-factorial datasets created with Taguchi's orthogonal-array samplers. Replicated response datasets are compressed utilizing the signal to noise ratio and then they are homogenized by simple rank-ordering. The multiple response layout is reduced to the more tractable uni-response arrangement by using the super-ranking concept to enact the fusing of the individual responses. The 'ranked-and-fused' dataset is subjected to conversion by linear and three-layer perceptrons. The performance of a group of examined effects is assessed according to the perceptrons' sensitivity analysis output. Using Wilcoxon's one-sample test, statistical significance is assigned to the accumulated ranking scores obtainable from a series of independent perceptron runs. We discuss the efficiency status for each of the two engaged perceptron options on affecting prediction accuracy as well as the influence of data fusion on the SNR-compressed datasets. Our robust neurocomputing solver is elucidated in a concurrent screening of three foam characteristics which are encountered in popular solar-collector assembly operations. Seven controlling factors were profiled and it was found that the temperature of the polyol additive is the sole statistically predominant effect. Finally, through our industrial paradigm, we illustrate the superiority of the fusing principle for downsizing stochastically multiple characteristics and thus gaining faster and more accurate perceptron predictions. We show that the proposed method outperforms the outcomes obtained by the desirability analysis. We identify the points of superiority to the crisper resolution in locating effect dominance accompanied with recovered stochastic significance. (C) 2014 Elsevier B.V. All rights reserved.
+Taguchi methods; Artificial neural networks; Robust screening; Design of experiments; Orthogonal array; Solar collectors; ARTIFICIAL NEURAL-NETWORK; STRUCTURAL DESIGN OPTIMIZATION; WATER-HEATING SYSTEMS; ALGORITHM; QUALITY; MODEL; PERFORMANCE; PREDICTION; INDUSTRY; PEMFC
+5
+22
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.jmatprotec.2014.04.002
+Selective laser melting of a beta-solidifying TNM-B1 titanium aluminide alloy
+Loeber, Lukas; Schimansky, Frank Peter; Kuehn, Uta; Pyczak, Florian; Eckert, Juergen
+Lober, L (reprint author), Leibniz Inst Solid State & Mat Res Dresden, Dresden, Germany.
+The interest for a wider range of useable materials for the technology of selective laser melting is growing. In this work we describe a new way to optimize the process parameters for selective laser meltingof a beta solidifying titanium aluminide. This kind of material has so far not been processed successfully by this method. The new approach is easy to conduct and well transferable to other materials. It is based on the fact that the parts generated from selective laser melting can be described by an addition of multiple single tracks. Multiple types of single track experiments are performed and in combination with knowledge from laser welding tests optimized parameter combinations are derived. Compact samples are built with the optimized process parameters and characterized in terms of microstructure, phase composition and mechanical properties. With this technique the generation of a TNMB1 titanium aluminide alloy sample with a density greater than 99% could be achieved. The mechanical properties are comparable with material produced by conventional techniques. (C) 2014 Elsevier B.V. All rights reserved.
+Additive manufacturing; Selective laser melting; Titanium aluminide; Mechanical properties; Optimization of process parameters; TIAL BASED ALLOY; TRACK FORMATION; SINGLE TRACK; POWDER; PHASE; MICROSTRUCTURE; SUPPORT; DESIGN
+14
+47
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.jmatprotec.2014.04.009
+Laser curing of silver-based conductive inks for in situ 3D structural electronics fabrication in stereolithography
+Lopes, Amit J.; Lee, In Hwan; MacDonald, Eric; Quintana, Rolando; Wicker, Ryan
+Lopes, AJ (reprint author), Univ Texas El Paso, WM Keck Ctr Innovat 3D, Ind Mfg & Syst Engn Dept, 500 W Univ Ave,E201G,Engn Bldg, El Paso, TX 79968 USA.
+A hybrid stereolithography (SL)/direct print (DP) system has been developed and previously described that fabricates three-dimensional (3D) structural electronic devices in which component placement, interconnect routing, and system boundaries are not confined to two dimensions as is the case with traditional printed circuit boards (PCBs). The resulting increased level of design and fabrication freedom provides potential for a reduction in both volume and weight as well as the capability of fabricating systems in arbitrary and complex shapes as required to conform to unique application requirements (e.g., human anatomy, airframe structures, and other volumetrically-constrained mechanical systems). The fabrication of these devices without intermediate part removal between SL and DP processes requires in situ curing of DP-dispensed silver-based inks to sufficiently cure the inks prior to continuing additional SL fabrication. This paper describes investigations into the laser curing process using the two laser wavelengths, 355 nm and 325 nm, which have been used in commercial SL machines. Various laser curing parameters, including energy (laser power and scan speed), scanning location, and laser wavelength were investigated. The trace resistances and structural changes in the SL substrate and printed trace were compared for each experiment to determine the most preferred laser ink curing method. Furthermore, oven curing of partially laser cured ink traces was investigated as a means for minimizing the number of in situ laser passes required to embed ink traces during SL fabrication. The laser curing process was repeated for a wide variety of conductive inks, having different structure, composition, and curing properties to determine if certain inks were more responsive to laser curing and if the ink curing results could be generalized. A statistical study was conducted under the hypothesis that laser curing of inks at 325 nm wavelength would be better, due to lower silver reflectance, as compared to 355 nm wavelength. Results indicated that particulate silver based conductive inks can be successfully cured in situ using SL lasers with various laser curing parameters. Curing ink traces at high laser power and slow scan speeds with the laser beam located on the substrate adjacent to the ink channel resulted in the most effective ink curing but resulted in discoloration of the ink and/or charring of the SL substrate. Comparatively, when laser power was reduced sufficiently to eliminate the charring, lower effective ink curing was achieved. Irradiating the laser directly on the ink did not damage the ink or the substrate, while providing low trace resistances, and represents the most viable laser curing alternative to achieve acceptable trace resistance without charring the SL substrate. The results further indicated that partial laser curing of ink using a reduced number of laser passes with subsequent oven cure seem to work effectively and may decrease overall manufacturing time. SL lasers with low power (<100 mW) may not be effective for curing conductive inks that have high viscosities and require high curing temperatures. Finally, a statistical study determined that 325 nm is more effective for direct curing of the ink as compared to the 355 nm laser. (C) 2014 The Authors. Published by Elsevier B.V.
+In situ laser curing; 3D structural electronics; Direct print; Multiple materials; Additive manufacturing
+11
+76
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1007/s10853-014-8271-7
+Printed electronic switch on flexible substrates using printed microcapsules
+ten Cate, A. Tessa; Gaspar, Cristina H.; Virtanen, Heini L. K.; Stevens, Ralph S. A.; Koldeweij, Robin B. J.; Olkkonen, Juuso T.; Rentrop, Corne H. A.; Smolander, Maria H.
+ten Cate, AT (reprint author), TNO, Netherlands Org Appl Sci Res, POB 6235, NL-5600 HE Eindhoven, Netherlands.
+Printed electronics, the manufacturing of electronic components on large, flexible, and low-cost substrates by printing techniques, can facilitate widespread, very low-cost electronics for consumer applications and disposable devices. New technologies are needed to create functional components in this field. This paper introduces a new method to create an all-additive printed switch on flexible substrate materials, such as polymer foils and paper substrates. The active layer of the switch component consists of neutral polyaniline (PANI), which can be doped by acid to induce a shift from a non-conductive to a conductive oxidation state. Monodisperse core-shell microcapsules containing an acidic aqueous core liquid were produced by a novel inkjet-based encapsulation technology. It was shown that unfavorable water evaporation from the microcapsules could be reduced by the addition of calcium chloride to the core liquid. A switch component was prepared, consisting of inkjet-printed interdigitated silver electrodes, PANI active layer and printed microcapsules. If an external pressure was applied, for instance with a finger, then the switch component changed its state from non-conductive to conductive with a simultaneous distinct color change. The results clearly demonstrate the feasibility of the presented approach to create either a visual or electronic signal for use in printed electronic applications.
+; GAS SENSORS; H2S SENSOR; TECHNOLOGY; PAPER; POLYMERS; INK
+10
+75
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.finel.2014.04.003
+Modeling metal deposition in heat transfer analyses of additive manufacturing processes
+Michaleris, Panagiotis
+Michaleris, P (reprint author), Penn State Univ, Pan Comp LLC, Dept Mech & Nucl Engn, University Pk, PA 16802 USA.
+Additive Manufacturing (AM) processes for metallic parts using both laser and electron beam heat sources are becoming increasingly popular due to their potential of producing near net shape structural components. The thermal history generated by additive manufacturing is essential in determining the resulting microstructure, material properties, residual stress, and distortion.
+Additive manufacturing; Metal deposition; Element activation; Heat transfer; SOLID FREEFORM FABRICATION; RESIDUAL-STRESS; LASER; SIMULATION; TEMPERATURE; MICROSTRUCTURE; COMPONENTS; FIELDS In this work finite element techniques for modeling metal deposition heat transfer analyses of additive manufacturing are investigated in detail. In particular, both quiet and inactive element activation are reviewed in detail and techniques for minimizing errors associated with element activation errors are proposed. 1D and 3D numerical examples are used to demonstrate that both methods can give equivalent results if implemented properly. It is also shown that neglecting surface convection and radiation on the continuously evolving interface between active and inactive elements can lead to errors. A new hybrid quiet inactive metal deposition method is also proposed to accelerate computer run times. (C) 2014 Elsevier B.V. All rights reserved
+19
+91
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1364/OE.22.020776
+Numerical reconstruction of a full parallax holographic stereogram with radial distortion
+Park, Jiyong; Kang, Hoonjong; Stoykova, Elena; Kim, Youngmin; Hong, Sunghee; Choi, Yongsuk; Kim, Yongjung; Kwon, Soonchul; Lee, Seunghyun
+Kang, H (reprint author), Korea Elect Technol Inst, Digital Holog Res Team, Seoul, South Korea.
+Successful commercialization of holographic printers based on holographic stereograms requires a tool for their numerical replaying and quality assessment before the time-consuming and expensive process of holographic recording. A holographic stereogram encodes 2D images of a 3D scene that are incoherently captured from multiple perspectives and rearranged before recording. This study presents a simulator which builds a full parallax and full color white light viewable holographic stereogram from the perspective images captured by a virtual recentering camera with its further numerical reconstruction for any viewer location. By tracking all steps from acquisition to recording, the simulator allows for analysis of radial distortions caused by the optical elements used at the recording stage. Numerical experiments conducted at increasing degree of pincushion distortion proved its insignificant influence on the reconstructed images in all practical cases by using a peak signal-to-noise ratio and the structural similarity as an image quality metrics. (C) 2014 Optical Society of America
+; DISPLAY
+2
+8
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1371/journal.pone.0104975
+Magnetic Resonance Imaging of the Ear for Patient-Specific Reconstructive Surgery
+Nimeskern, Luc; Feldmann, Eva-Maria; Kuo, Willy; Schwarz, Silke; Goldberg-Bockhorn, Eva; Duerr, Susanne; Mueller, Ralph; Rotter, Nicole; Stok, Kathryn S.
+Stok, KS (reprint author), Swiss Fed Inst Technol, Inst Biomech, Zurich, Switzerland.
+Introduction: Like a fingerprint, ear shape is a unique personal feature that should be reconstructed with a high fidelity during reconstructive surgery. Ear cartilage tissue engineering (TE) advantageously offers the possibility to use novel 3D manufacturing techniques to reconstruct the ear, thus allowing for a detailed auricular shape. However it also requires detailed patient-specific images of the 3D cartilage structures of the patient's intact contralateral ear (if available). Therefore the aim of this study was to develop and evaluate an imaging strategy for acquiring patient-specific ear cartilage shape, with sufficient precision and accuracy for use in a clinical setting.
+; ARTICULAR-CARTILAGE; AURICULAR RECONSTRUCTION; IN-VITRO; MICROTIA; REPRODUCIBILITY; FABRICATION; TOMOGRAPHY; EXPERIENCE; MORPHOLOGY; AURICLE Methods and Materials: Magnetic resonance imaging (MRI) was performed on 14 volunteer and six cadaveric auricles and manually segmented. Reproducibility of cartilage volume (Cg.V), surface (Cg.S) and thickness (Cg.Th) was assessed, to determine whether raters could repeatedly define the same volume of interest. Additionally, six cadaveric auricles were harvested, scanned and segmented using the same procedure, then dissected and scanned using high resolution micro-CT. Correlation between MR and micro-CT measurements was assessed to determine accuracy. Results: Good inter-and intra-rater reproducibility was observed (precision errors <4% for Cg.S and <9% for Cg.V and Cg.Th). Intraclass correlations were good for Cg.V and Cg.S (>0.82), but low for Cg.Th (<0.23) due to similar average Cg.Th between patients. However Pearson's coefficients showed that the ability to detect local cartilage shape variations is unaffected. Good correlation between clinical MRI and micro-CT (r>0.95) demonstrated high accuracy. Discussion and Conclusion: This study demonstrated that precision and accuracy of the proposed method was high enough to detect patient-specific variation in ear cartilage geometry. The present study provides a clinical strategy to access the necessary information required for the production of 3D ear scaffolds for TE purposes, including detailed patient-specific shape. Furthermore, the protocol is applicable in daily clinical practice with existing infrastructure.
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+10.1039/c4lc00394b
+Low cost lab-on-a-chip prototyping with a consumer grade 3D printer
+Comina, German; Suska, Anke; Filippini, Daniel
+Filippini, D (reprint author), Linkoping Univ, Dept Phys Chem & Biol IFM, Opt Devices Lab, S-58183 Linkoping, Sweden.
+Versatile prototyping of 3D printed lab-on-a-chip devices, supporting different forms of sample delivery, transport, functionalization and readout, is demonstrated with a consumer grade printer, which centralizes all critical fabrication tasks. Devices cost 0.57US$ and are demonstrated in chemical sensing and micromixing examples, which exploit established principles from reference technologies.
+; MICROFLUIDIC DEVICES; HYDROGEN-PEROXIDE; OXIDATIVE STRESS; PROJECTION PHOTOLITHOGRAPHY; FABRICATION; MICROSCOPE; GLASS; PDMS
+23
+114
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1364/AO.53.005510
+On-line surface inspection using cylindrical lens-based spectral domain low-coherence interferometry
+Tang, Dawei; Gao, Feng; Jiang, X.
+Gao, F (reprint author), Univ Huddersfield, Ctr Precis Technol, Huddersfield HD1 3DH, W Yorkshire, England.
+We present a spectral domain low-coherence interferometry (SD-LCI) method that is effective for applications in on-line surface inspection because it can obtain a surface profile in a single shot. It has an advantage over existing spectral interferometry techniques by using cylindrical lenses as the objective lenses in a Michelson interferometric configuration to enable the measurement of long profiles. Combined with a modern high-speed CCD camera, general-purpose graphics processing unit, and multicore processors computing technology, fast measurement can be achieved. By translating the tested sample during the measurement procedure, real-time surface inspection was implemented, which is proved by the large-scale 3D surface measurement in this paper. ZEMAX software is used to simulate the SD-LCI system and analyze the alignment errors. Two step height surfaces were measured, and the captured interferograms were analyzed using a fast Fourier transform algorithm. Both 2D profile results and 3D surface maps closely align with the calibrated specifications given by the manufacturer. (C) 2014 Optical Society of America
+; WHITE-LIGHT INTERFEROMETRY; WAVELENGTH SCANNING INTERFEROMETRY; DISTANCE MEASUREMENT; REFRACTOMETRY; PROFILER; PHASE
+3
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10.1364/OL.39.004796
+3D-printed miniature gas cell for photoacoustic spectroscopy of trace gases
+Bauer, Ralf; Stewart, George; Johnstone, Walter; Boyd, Euan; Lengden, Michael
+Bauer, R (reprint author), Univ Strathclyde, Dept Elect & Elect Engn, Ctr Microsyst & Photon, 204 George St, Glasgow G1 1XW, Lanark, Scotland.
+A new methodology for the development of miniature photoacoustic trace gas sensors using 3D printing is presented. A near-infrared distributed feedback (DFB) laser is used together with a polymer-based gas cell, off-the-shelf fiber optic collimators, and a microelectromechanical system (MEMS) microphone to measure acetylene at 1532.83 nm. The resonance behavior of the miniature gas cell is analyzed using a theoretical and experimental approach, with a measured resonance frequency of 15.25 kHz and a Q-factor of 15. A minimum normalized noise equivalent absorption of 4.5 x 10(-9) W cm(-1) Hz(-1/2) is shown together with a 3 sigma detection limit of 750 parts per billion (ppb) for signal averaging times of 35 s. The fiber-coupled delivery and miniature cost-effective cell design allows for use in multipoint and remote detection applications. (C) 2014 Optical Society of America
+; QUANTUM CASCADE LASER; WAVELENGTH MODULATION; CHEMICAL SENSOR; QEPAS SENSOR; SPECTROMETER; RESONATORS
+12
+48
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.ijms.2014.06.004
+Optimized DLP linear ion trap for a portable non-scanning mass spectrometer
+Brkic, Boris; Giannoukos, Stamatios; France, Neil; Murcott, Robert; Siviero, Fabrizio; Taylor, Stephen
+Brkic, B (reprint author), Univ Liverpool, Dept Elect Engn & Elect, Brownlow Hill, Liverpool L69 3GJ, Merseyside, England.
+This work reports implementation of an optimized linear ion trap (LIT) mass analyzer manufactured using digital light processing (DLP), a low cost rapid prototyping technique. To satisfy requirements for a portable commercial instrument, our previous DLP LIT has been improved by using polymer material for electrodes and housing with higher heat deflection temperature and much improved metal coating of the electrodes. In this way, a polymer-based LIT can operate at higher pressures with more stable voltages, low outgassing and with much longer electrode lifetime. This paper demonstrates non-scanning operation of a DLP LIT based on ceramic resin with specially electroplated electrodes. Non-scanning mode is suitable for applications in which only specific mass fragments are targeted such as security and forensics. Experimental results from a DLP LIT are therefore shown for simulants of cocaine, TNT and sarin. (C) 2014 Elsevier B.V. All rights reserved.
+Linear ion trap; Rapid prototyping; Portable mass spectrometer; Non-scanning mode; Security applications; PERFORMANCE; ARRAYS
+2
+14
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.sna.2014.04.009
+Micro-object manipulation in a microfabricated channel using an electromagnetically driven microrobot with an acoustically oscillating bubble
+Kwon, Jun O.; Yang, Ji Sun; Chae, Jeong Byung; Chung, Sang Kug
+Chung, SK (reprint author), Myongji Univ, Dept Mech Engn, Yongin 449728, South Korea.
+This paper presents an untethered microrobot swimming in human blood vessels through electromagnetic actuation to manipulate bio/micro-objects using an acoustically oscillating bubble attached to the microrobot as a grasping tool. First, for the three-dimensional (3D) actuation of the microrobot in arbitrarily shaped blood vessels, an electromagnetic system consisting of horizontal and vertical pairs of Helmholtz and Maxwell electric coils is designed and manufactured, and the magnetic flux density generated from the designed system is verified with theory. Using the developed electromagnetic system, the actuation of a spherical microrobot (800 mu m dia.) made of a cylindrical neodymium magnet covered with clay is successfully demonstrated in X-Y and X-Z planes along with a T-shaped glass channel. Second, micro-object manipulation using an acoustically oscillating bubble is separately investigated. When a bubble is acoustically excited by a piezoactuator around its natural frequency, it oscillates and simultaneously generates microstreaming and secondary radiation force, which can be used to capture a neighboring object. The capturing distance of an acoustically oscillating bubble (550 mu m dia.) and its oscillation amplitude in different frequencies and voltages are measured by using a fish egg (1 mm dia.) and high-speed camera, respectively. The capturing distance is proportional to the bubble oscillation amplitude. The maximum capturing distance and bubble oscillation amplitude (epsilon = Delta/D) at its natural frequency (11 kHz) and 250 V-rms are approximately 2.3 mm and 0.13, respectively. Finally, as a proof of concept, the manipulation of a fish egg (800 mu m dia.) in a microfabricated channel with tandem rectangular hills is experimentally achieved by the electromagnetically driven microrobot incorporated with an acoustically oscillating bubble. (C) 2014 Elsevier B.V. All rights reserved.
+Microrobot; Microbubble; Microstreaming; Micromanipulation; Target drug delivery; DRUG-DELIVERY
+7
+23
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1016/j.surfcoat.2014.04.041
+Thin electroless Co(W,P) film growth on titanium-nitride layer modified by self-assembled monolayer
+Malki, M.; Rozenblat-Raz, A.; Duhin, A.; Inberg, A.; Horvitz, D.; Shacham-Diamand, Y.
+Malki, M (reprint author), Tel Aviv Univ, Dept Phys Elect, Lab Micro & Nano Syst & Technol, IL-69978 Tel Aviv, Israel.
+In this work we present a study of the initial nucleation and growth of electroless cobalt-tungsten-phosphorous (Co(W,P)) film on titanium nitride. This cobalt alloy can be applied as barrier or capping layer for copper interconnects in integrated circuits, flexible printed circuit board, micro-mechanical devices and more. The Co(W,P) was deposited from a basic bath on TiN that had been functionalized by silane based self-assembled monolayer (SAM) activated by gold nano-particles (AuNPs). In this paper we report on the results of using two similar silane monomers: aminopropyltrimethoxysilane (APTMS) and N-(3trimethoxysilylpropyl) diethylenetriamine (TPDA); both use amine groups to attract the AuNPs, but differ in molecular conformity. A detailed study of the initial stages of the Co(W,P) layer growth using high-resolution transmission electron microscopy and atomic force microscopy showing the common and different nucleation densities, surface coverages, morphologies and electrical properties of the Co(W,P) layer induced by the two SAM layers is presented. With scaling behavior of the surface roughness evolution we show that Co(W,P) layers grow in 3D, regardless of the SAM type. This effect is probably due to the fact that the dominant mechanism affecting the nucleation and initial growth is the crystallographic misfit between the catalytic layer and the deposited Co(W,P). The 3D growth of Co(W,P) was observed on both SAMs; nevertheless, on APTMS it was controlled by lateral growth, while on TPDA by surface diffusion. (C) 2014 Elsevier B.V. All rights reserved.
+Electroless deposition; Self-assembled monolayer; Ultra-thin films; DIFFUSION BARRIER PROPERTIES; COPPER METALLIZATION; GOLD NANOPARTICLES; ELECTRICAL-RESISTIVITY; DEPOSITION; SURFACE; SILICON; CU; ACTIVATION; ADSORPTION
+13
+51
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+10.1021/ma500582p
+Nanofiller Structure and Reinforcement in Model Silica/Rubber Composites: A Quantitative Correlation Driven by Interfacial Agents
+Bouty, Adrien; Petitjean, Laurent; Degrandcourt, Christophe; Gummel, Jeremie; Kwasniewski, Pawel; Meneau, Florian; Boue, Francois; Couty, Marc; Jestin, Jacques
+Jestin, J (reprint author), CEA Saclay, Lab Leon Brillouin, F-91191 Gif Sur Yvette, France.
+We report a complete analysis of model silica/styrene-butadiene rubber (SBR) nanocomposites including a direct and quantitative correlation between the filler structure and the mechanical reinforcement. We compared two different ways of sample processing: a solvent casting route with well-defined colloidal silica and the manufacturing process of internal mixing with industrial silica powder. The multiscale filler dispersion was characterized with a combination of SAXS/TEM in both reciprocal and direct space. The mechanical properties were determined with oscillatory shear measurements. We evaluated the influence of two polymer-filler interfacial additives on the filler dispersion: a coating agent and a coupling agent for different particle concentrations. Using simple analytical functions, we succeed in modeling the filler dispersion. We obtained surprisingly the same general trend whatever the sample processing, solvent casting, or internal mixing. The primary particles form fractal primary aggregates inside the matrix as a result of a diffusion-limited aggregation process driven by the interfacial additive. The coupling agent, which can form covalent bonds with the matrix chains, leads to smaller and denser primary aggregates while the coating one gives rise to larger and more ramified objects. This can be explained by the restriction of nanoparticle diffusion due to covalent bonds. The primary aggregates arrange into a secondary large scale structure, agglomerates, or by a branched network. The spatial correlations between the primary aggregates follow a Percus-Yevick function allowing us to distinguish between more or less interpenetrated networks in a situation of percolation. The viscoelastic behavior of the composites has been analyzed quantitatively with a percolation model. Below the percolation threshold, the reinforcement is mostly driven by the cluster compactness. We highlight a mechanical percolation whose threshold is dependent on the interfacial additive, but not on the material fabrication process, arising at lower filler volume fraction than the structural percolation. Above the percolation threshold, the network modulus varies as the power three of filler network density which is determined from geometrical assumptions. The filler network density, traducing the degree of interpenetration of the aggregates inside the network, is driven by both the interfacial additive and the samples preparation: the coupling agent as well as the internal mixing process gives rise to a denser network with a resulting improved modulus.
+; POLYMER-GRAFTED-NANOPARTICLES; INDUSTRIAL NANOCOMPOSITE SILICA/SBR; SMALL-ANGLE SCATTERING; MECHANICAL REINFORCEMENT; CHAIN CONFORMATION; FILLER; RUBBER; STATE; SAXS; ELASTICITY
+23
+63
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+0
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
