@@ -11,14 +11,13 @@ if __name__ == '__main__':
     f_out = open("result.txt", 'wb')
     f_out.close()
     # process every file
-    ct_all=0
+    ct_all = 0
     for root, dirs, files in os.walk(sys.argv[1]):
         for name in files:
             f_name = root + '/' + name
             # open the file
             f_file = codecs.open(f_name, 'r', 'utf-8')
-            ct_file=0
-            print(f_name)
+            ct_file = 0
             cur_line = ""
             # this file
             while cur_line != "EF":
@@ -101,8 +100,8 @@ if __name__ == '__main__':
 
                     cur_line = f_file.readline().strip('\r\n')
                 if r_doi != "":
-                    ct_all=ct_all+1
-                    ct_file=ct_file+1
+                    ct_all = ct_all + 1
+                    ct_file = ct_file + 1
                     # query citis
                     # try the doi
                     html_url = "http://api.altmetric.com/v1/doi/" + r_doi
@@ -162,7 +161,7 @@ if __name__ == '__main__':
                         r_rh = r_tweeters = r_videos = r_weibo = r_wikipedia = "n/a"
 
                     # write
-                    print(ct_all,"in total,",ct_file,"in",f_name,'\t',r_doi)
+                    print(ct_all, "in total,", ct_file, "in", f_name, '\t', r_doi)
                     f_out = open("result.txt", 'ab')
                     f_out.write((r_doi + '\n').encode(encoding='UTF8'))
                     f_out.write((r_title + '\n').encode(encoding='UTF8'))
