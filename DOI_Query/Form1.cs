@@ -92,7 +92,7 @@ namespace DOI_Query {
 				for (int i = 0; i < lines.Length; i += 26) {
 					string nowLine = "\"" + lines[i];
 					for (int ii = 1; ii < 26; ii++) {
-						nowLine += ("\",\"" + lines[i + ii]);
+						nowLine += ("\",\"" + lines[i + ii].Replace("\"","\"\""));
 					}
 					nowLine += "\"";
 					file.WriteLine(nowLine);
