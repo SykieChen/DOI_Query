@@ -114,7 +114,15 @@ if __name__ == '__main__':
                         print("Social Ref Not Found.")
                         ok = False
                     if ok:
-                        html_raw = html_res.read()
+                        ct_try = 0
+                        while ct_try < 5:
+                            try:
+                                html_raw = html_res.read()
+                            except:
+                                ct_try += 1
+                            else:
+                                ct_try = 9
+
                         html_bin = html_raw.decode("UTF8")
                         dic_json = json.loads(html_bin)
                         # print(dic_json['title'])
