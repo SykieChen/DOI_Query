@@ -1,0 +1,10 @@
+import os
+root='DOI_Query'
+for dir in os.walk(root).__next__()[1]:
+    for file in os.walk(os.path.join(root,dir)).__next__()[2]:
+        path=os.path.join(root,dir,file)
+        print(path)
+
+
+
+
